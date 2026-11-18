@@ -1,6 +1,6 @@
 –NORTE
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1,  'Rua Benjamin Constant',            'Centro',               69900100, ZZ),
 (2,  'Avenida Ceará',                    'Bosque',               69900710, ZZ),
 (3,  'Avenida Getúlio Vargas',           'Base',                 69900600, ZZ),
@@ -42,7 +42,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (39, 'Rua do Triângulo',                 'Triângulo',            69902800, ZZ),
 (40, 'Rua Belo Jardim',                  'Belo Jardim',          69910400, ZZ);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (41, 'Avenida Rodrigues Alves',          'Centro',                69980000, XX),
 (42, 'Rua Cohab',                        'Cohab',                 69980200, XX),
 (43, 'Rua Telegráfica',                  'Telegráfica',           69980300, XX),
@@ -56,7 +56,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (51, 'Rua Nova Olinda',                  'Nova Olinda',           69981000, XX),
 (52, 'Rua Aeroporto Velho',              'Aeroporto Velho',       69981100, XX);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (53, 'Rua Cândido Mendes',                 'Centro',             68900070, 131),
 (54, 'Avenida Mendonça Furtado',           'Santa Rita',         68901010, 131),
 (55, 'Avenida Mendonça Furtado',           'Trem',               68901020, 131),
@@ -86,7 +86,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (79, 'Rua Renascer',                       'Renascer',           68909450, 131),
 (80, 'Rua Julião Ramos',                   'Julião Ramos',       68903950, 131);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (81, 'Avenida Santana',                    'Centro',             68925000, 137),
 (82, 'Rua Fonte Nova',                     'Fonte Nova',         68925100, 137),
 (83, 'Avenida Rio Branco',                 'Área Portuária',     68925200, 137),
@@ -100,7 +100,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (91, 'Rua Provedor',                       'Provedor',           68926000, 137),
 (92, 'Rua Salvador Diniz',                'Salvador Diniz',     68926100, 137);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (93,  'Avenida Eduardo Ribeiro',           'Centro',                  69010001, 178),
 (94,  'Avenida Torquato Tapajós',          'Adrianópolis',            69057015, 178),
 (95,  'Avenida Mário Ypiranga',            'Aleixo',                  69060000, 178),
@@ -148,7 +148,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (137, 'Rua Vila da Prata',                 'Vila da Prata',           69030000, 178),
 (138, 'Rua Zumbi dos Palmares',            'Zumbi dos Palmares',      69086000, 178);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (139, 'Rua Governador Leopoldo Neves',     'Centro',                  69151010, 186),
 (140, 'Rua Palmares',                      'Palmares',                69151100, 186),
 (141, 'Rua Francesa',                      'Francesa',                69151200, 186),
@@ -164,7 +164,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (151, 'Rua Paulo Corrêa',                  'Paulo Corrêa',            69152100, 186),
 (152, 'Rua Emílio Moreira',                'Emílio Moreira',          69152200, 186);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (153, 'Rua Santo Antônio',                  'Campina',            66010000, 30),
 (154, 'Rua Siqueira Mendes',                'Cidade Velha',       66020000, 30),
 (155, 'Avenida Presidente Vargas',          'Reduto',             66053000, 30),
@@ -200,7 +200,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (185, 'Rua Una',                            'Una',                66050100, 30),
 (186, 'Rua Miramar',                        'Miramar',            66075100, 30);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (187, 'Avenida Rui Barbosa',                'Centro',             68005080, 2531),
 (188, 'Rua Aldeia',                         'Aldeia',             68005100, 2531),
 (189, 'Rua Aparecida',                      'Aparecida',          68040100, 2531),
@@ -226,7 +226,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (209, 'Rua Santarenzinho',                  'Santarenzinho',      68041300, 2531),
 (210, 'Rua Elcione Barbalho',               'Elcione Barbalho',   68041400, 2531);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (211, 'Avenida Sete de Setembro',          'Centro',                    76801001, 4387),
 (212, 'Avenida Carlos Gomes',              'Olaria',                    76801100, 4387),
 (213, 'Avenida Pinheiro Machado',          'Pedrinhas',                 76801200, 4387),
@@ -265,7 +265,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (246, 'Rua Socialista',                    'Socialista',                76803500, 4387),
 (247, 'Rua Conceição',                     'Conceição',                 76801700, 4387);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (248, 'Avenida Marechal Rondon',           'Centro',                    76900036, 4374),
 (249, 'Rua Dom Bosco',                     'Dom Bosco',                 76900100, 4374),
 (250, 'Avenida Transcontinental',          'Nova Brasília',             76908100, 4374),
@@ -287,7 +287,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (266, 'Rua São Bernardo',                  'São Bernardo',              76900900, 4374),
 (267, 'Rua Dois de Abril',                 'Dois de Abril',             76901000, 4374);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (268, 'Avenida Capitão Ene Garcez',          'Centro',                 69301160, 4405),
 (269, 'Avenida Major Williams',              '31 de Março',            69304100, 4405),
 (270, 'Rua Treze de Setembro',               '13 de Setembro',         69304200, 4405),
@@ -326,7 +326,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (303, 'Rua Araújo Filho',                    'Dr. Silvio Leite',       69312800, 4405),
 (304, 'Rua Cecília Brasil',                  'Centenário',             69312900, 4405);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (305, 'Avenida Brasil',        'Centro',          69373000, 4414),
 (306, 'Rua Rio Branco',        'Cidade Nova',     69373010, 4414),
 (307, 'Rua Amazonas',          'Nova Esperança',  69373020, 4414),
@@ -334,7 +334,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (309, 'Rua Planalto',          'Planalto',        69373040, 4414),
 (310, 'Rua do Aeroporto',      'Aeroporto',       69373050, 4414);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (311, 'Avenida Teotônio Segurado',         'Plano Diretor Norte',    77006002, 5520),
 (312, 'Avenida Teotônio Segurado',         'Plano Diretor Sul',      77015002, 5520),
 (313, 'Avenida Tocantins',                 'Taquaralto',             77060000, 5520),
@@ -353,7 +353,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (326, 'Avenida JK',                        'Lago Norte',             77006100, 5520),
 (327, 'Avenida JK',                        'Lago Sul',               77015100, 5520);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (328, 'Avenida Cônego João Lima',          'Centro',                 77804010, 5446),
 (329, 'Avenida Bernardo Sayão',            'Anhanguera',             77804100, 5446),
 (330, 'Avenida Filadélfia',                'Cimba',                  77824100, 5446),
@@ -374,7 +374,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 
 –NORDESTE
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (345, 'Rua do Comércio',                   'Centro',                  57020000, 68),
 (346, 'Rua Sá e Albuquerque',              'Jaraguá',                 57022090, 68),
 (347, 'Avenida Álvaro Otacílio',           'Ponta Verde',             57035000, 68),
@@ -420,7 +420,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (387, 'Rua Bom Parto',                     'Bom Parto',               57017300, 68),
 (388, 'Rua Ponta da Terra',                'Ponta da Terra',          57030200, 68);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (389, 'Avenida Rio Branco',                'Centro',                  57300010, 24),
 (390, 'Rua Baixão',                        'Baixão',                  57300100, 24),
 (391, 'Rua Brasília',                      'Brasília',                57300200, 24),
@@ -444,7 +444,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (409, 'Avenida Governador Muniz Falcão',   'Senador Arnon de Melo',   57305200, 24),
 (410, 'Rua Verdes Campos',                 'Verdes Campos',           57305300, 24);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (411, 'Avenida Sete de Setembro',          'Centro',                  40060001, 536),
 (412, 'Rua Chile',                         'Comércio',                40015170, 536),
 (413, 'Largo do Pelourinho',               'Pelourinho',              40026280, 536),
@@ -493,7 +493,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (456, 'Rua Amaralina',                     'Amaralina',               41900000, 536),
 (457, 'Avenida Vasco da Gama',             'Engenho Velho de Brotas', 40243000, 536);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (458, 'Rua Conselheiro Franco',            'Centro',                  44001000, 330),
 (459, 'Avenida Maria Quitéria',            'Santa Mônica',            44050000, 330),
 (460, 'Rua Cidade Nova',                   'Cidade Nova',             44052000, 330),
@@ -525,7 +525,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (486, 'Rua Olhos d''Água',                 'Olhos d''Água',           44064000, 330),
 (487, 'Avenida João Durval Carneiro',      'Serraria Brasil',         44065000, 330);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (488, 'Rua Major Facundo',                 'Centro',                   60025100, 678),
 (489, 'Avenida Santos Dumont',             'Aldeota',                  60150160, 678),
 (490, 'Avenida Beira Mar',                 'Meireles',                 60165121, 678),
@@ -579,7 +579,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (538, 'Rua Guararapes',                    'Guararapes',               60810000, 678),
 (539, 'Avenida Washington Soares',         'Cidade 2000',              60192100, 678);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (540, 'Rua Coronel Mont''Alverne',         'Centro',                   62010010, 782),
 (541, 'Avenida John Sanford',              'Derby Clube',              62042000, 782),
 (542, 'Avenida Dom José',                  'Dom Expedito',             62030000, 782),
@@ -606,7 +606,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (563, 'Rua Vila União',                    'Vila União',               62065000, 782),
 (564, 'Rua Terrenos Novos',                'Terrenos Novos',           62066000, 782);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (565, 'Rua Grande',                          'Centro',                65010510, 1319),
 (566, 'Rua Portugal',                        'Praia Grande',          65010540, 1319),
 (567, 'Rua do Egito',                        'Desterro',              65010570, 1319),
@@ -656,7 +656,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (611, 'Rua Bairro de Fátima',                'Bairro de Fátima',      65030400, 1319),
 (612, 'Rua Divinéia',                        'Divinéia',              65110100, 1319);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (613, 'Rua Godofredo Viana',                 'Centro',                65900070, 1217),
 (614, 'Avenida Dorgival Pinheiro de Sousa',  'Bacuri',                65903000, 1217),
 (615, 'Avenida Newton Bello',                'Nova Imperatriz',       65903100, 1217),
@@ -683,7 +683,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (636, 'Rua Leandra',                         'Leandra',               65907200, 1217),
 (637, 'Avenida Pedro Neiva de Santana',      'Interlândia',           65907300, 1217);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (638, 'Rua Duque de Caxias',                 'Centro',                      58010120, 2675),
 (639, 'Rua Visconde de Pelotas',             'Varadouro',                   58010100, 2675),
 (640, 'Avenida Pedro II',                    'Tambiá',                      58020000, 2675),
@@ -730,7 +730,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (681, 'Rua Ilha do Bispo',                   'Ilha do Bispo',               58085100, 2675),
 (682, 'Rua São José',                        'São José',                    58082000, 2675);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (683, 'Rua Maciel Pinheiro',                 'Centro',                      58400120, 2612),
 (684, 'Avenida Manoel Tavares',              'Catolé',                      58410000, 2612),
 (685, 'Rua Prata',                           'Prata',                       58400200, 2612),
@@ -764,7 +764,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (713, 'Rua Lauritzen',                       'Lauritzen',                   58400500, 2612),
 (714, 'Rua Itararé',                         'Itararé',                     58400600, 2612);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (715, 'Rua do Bom Jesus',                    'Recife',                  50030170, 3316),
 (716, 'Avenida Dantas Barreto',              'Santo Antônio',           50010000, 3316),
 (717, 'Rua Direita',                         'São José',                50020000, 3316),
@@ -813,7 +813,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (760, 'Rua Brasília Teimosa',                'Brasília Teimosa',        51010000, 3316),
 (761, 'Rua Barro',                           'Barro',                   50760100, 3316);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (762, 'Rua Duque de Caxias',                 'Centro',                  55002120, 3228),
 (763, 'Avenida Agamenon Magalhães',          'Maurício de Nassau',      55012000, 3228),
 (764, 'Avenida Adjar da Silva Casé',         'Universitário',           55016000, 3228),
@@ -837,7 +837,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (782, 'Rua Santa Rosa',                      'Santa Rosa',              55038200, 3228),
 (783, 'Rua Riachão',                         'Riachão',                 55040300, 3228);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (784, 'Rua Álvaro Mendes',                   'Centro',                 64000060, 3585),
 (785, 'Avenida Nossa Senhora de Fátima',     'Fátima',                 64049000, 3585),
 (786, 'Avenida Homero Castelo Branco',       'Jóquei',                 64048000, 3585),
@@ -879,7 +879,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (822, 'Avenida Universitária',               'Zoobotânico',            64048100, 3585),
 (823, 'Rua Socopo',                          'Socopo',                 64047000, 3585);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (824, 'Avenida São Sebastião',               'Centro',                 64200010, 3521),
 (825, 'Avenida Chagas Rodrigues',            'Reis Veloso',            64202000, 3521),
 (826, 'Rua Nova Parnaíba',                   'Nova Parnaíba',          64202100, 3521),
@@ -895,7 +895,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (836, 'Rua Alto Santa Maria',                'Alto Santa Maria',       64206000, 3521),
 (837, 'Avenida Capitão Claro',               'Dirceu Arcoverde',       64206100, 3521);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (838, 'Avenida Rio Branco',                  'Alecrim',                       59040000, 3773),
 (839, 'Avenida Governador Silvio Pedrosa',   'Areia Preta',                   59014000, 3773),
 (840, 'Avenida Nascimento de Castro',        'Barro Vermelho',                59022000, 3773),
@@ -933,7 +933,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (872, 'Rua Santos Reis',                     'Santos Reis',                   59010300, 3773),
 (873, 'Avenida Hermes da Fonseca',           'Tirol',                         59020000, 3773);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (874, 'Avenida Rio Branco',                  'Centro',                  59600010, 3772),
 (875, 'Rua Abolição',                        'Abolição',                59611000, 3772),
 (876, 'Avenida Presidente Dutra',            'Aeroporto',               59607000, 3772),
@@ -958,7 +958,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (895, 'Rua Santa Júlia',                     'Santa Júlia',             59626000, 3772),
 (896, 'Rua Liberdade',                       'Liberdade',               59629000, 3772);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (897, 'Rua Laranjeiras',                     'Centro',                  49010160, 5360),
 (898, 'Avenida Barão de Maruim',             'Treze de Julho',          49020000, 5360),
 (899, 'Rua Itabaianinha',                    'São José',                49015000, 5360),
@@ -998,7 +998,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (933, 'Rua Bugio',                           'Bugio',                   49095200, 5360),
 (934, 'Rua Veneza',                          'Veneza',                  49075200, 5360);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (935, 'Rua Siqueira Campos',                 'Centro',                  49400010, 5390),
 (936, 'Rua Alto da Boa Vista',               'Alto da Boa Vista',       49400100, 5390),
 (937, 'Rua Bonfim',                          'Bonfim',                  49400200, 5390),
@@ -1014,7 +1014,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 
 –CENTROOESTE
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (947, 'SQS 308',                   'Asa Sul',            70355010, 804),
 (948, 'SQN 405',                   'Asa Norte',          70845010, 804),
 (949, 'SHIS QL 10',                'Lago Sul',           71630010, 804),
@@ -1040,7 +1040,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (969, 'Quadra 101',                'São Sebastião',      71692010, 804),
 (970, 'Rua 8 Chácara 2',           'Vicente Pires',      72007010, 804);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (971, 'Praça do Relógio',          'Centro',               72010010, 5563),
 (972, 'QNA 10',                    'Taguatinga Norte',     72115010, 5563),
 (973, 'QSA 10',                    'Taguatinga Sul',       72020010, 5563),
@@ -1056,7 +1056,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (983, 'Via Pistão Sul',            'Pistão Sul',           72020040, 5563),
 (984, 'QNL 5',                     'Setor QNL',            72151010, 5563);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (985,  'Avenida Goiás',                   'Centro',                 74005010, 977),
 (986,  'Avenida Tocantins',               'Setor Central',          74015010, 977),
 (987,  'Avenida T-63',                    'Setor Bueno',            74230100, 977),
@@ -1094,7 +1094,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1019, 'Avenida Eldorado',                'Residencial Eldorado',   74367010, 977),
 (1020, 'Rua Redenção',                    'Vila Redenção',          74845010, 977);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1021, 'Rua Barão do Rio Branco',          'Centro',               75020010, 897),
 (1022, 'Avenida Brasil Norte',             'Jundiaí',              75110010, 897),
 (1023, 'Avenida Pedro Ludovico',           'Vila Jaiara',          75070010, 897),
@@ -1118,7 +1118,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1041, 'Rua Boa Vista',                    'Boa Vista',            75114030, 897),
 (1042, 'Rua Eldorado',                     'Eldorado',             75113020, 897);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1043, 'Rua Barão de Melgaço',             'Centro',               78005300, 1382),
 (1044, 'Avenida Miguel Sutil',             'Goiabeiras',           78032000, 1382),
 (1045, 'Avenida das Américas',             'Jardim das Américas',  78060010, 1382),
@@ -1156,7 +1156,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1077, 'Rua São Gonçalo',                  'São Gonçalo',          78043040, 1382),
 (1078, 'Rua Tijucal',                      'Tijucal',              78060050, 1382);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1079, 'Avenida Marechal Rondon',          'Centro',               78700010, 1455),
 (1080, 'Rua Vila Aurora',                  'Vila Aurora',          78705010, 1455),
 (1081, 'Rua Birigui',                      'Vila Birigui',         78705020, 1455),
@@ -1182,7 +1182,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1101, 'Avenida Tiradentes',               'Vila Salmen',          78755020, 1455),
 (1102, 'Rua Olinda',                       'Vila Olinda',          78760010, 1455);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1103, 'Rua 14 de Julho',                  'Centro',               79002330, 1506),
 (1104, 'Avenida Mato Grosso',              'Amambaí',              79008010, 1506),
 (1105, 'Avenida Afonso Pena',              'Carandá Bosque',       79032010, 1506),
@@ -1214,7 +1214,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1131, 'Avenida Eduardo Elias Zahran',     'Aero Rancho',          79085040, 1506),
 (1132, 'Rua Moreninhas',                   'Moreninhas',           79050010, 1506);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1133, 'Rua Joaquim Teixeira Alves',       'Centro',               79800010, 1518),
 (1134, 'Rua Hayel Bon Faker',              'Jardim América',       79803010, 1518),
 (1135, 'Rua Água Boa',                     'Jardim Água Boa',      79803020, 1518),
@@ -1240,7 +1240,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 
 –SUDESTE
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1155, 'Avenida Jerônimo Monteiro',        'Centro',             29010002, 880),
 (1156, 'Avenida Cleto Nunes',              'Parque Moscoso',     29018420, 880),
 (1157, 'Avenida Saturnino de Brito',       'Praia do Canto',     29055180, 880),
@@ -1270,7 +1270,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1181, 'Rua República',                    'República',          29045900, 880),
 (1182, 'Rua Andorinhas',                   'Andorinhas',         29040300, 880);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1183, 'Avenida Luciano das Neves',        'Centro',                 29100000, 879),
 (1184, 'Avenida Hugo Musso',               'Praia da Costa',         29101916, 879),
 (1185, 'Rua Itapuã',                       'Itapuã',                 29101300, 879),
@@ -1296,7 +1296,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1205, 'Rua Nova América',                 'Nova América',           29110010, 879),
 (1206, 'Avenida Cristóvão Colombo',        'Cristóvão Colombo',      29107400, 879);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1207, 'Avenida Afonso Pena',              'Centro',            30130009, 1628),
 (1208, 'Rua Pernambuco',                   'Savassi',           30140070, 1628),
 (1209, 'Rua Sergipe',                      'Funcionários',      30130170, 1628),
@@ -1336,7 +1336,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1243, 'Avenida Cristiano Machado',        'Cidade Nova',       31170200, 1628),
 (1244, 'Rua Horto',                        'Horto',             31130100, 1628);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1245, 'Avenida Afonso Pena',              'Centro',              38400128, 2386),
 (1246, 'Rua Duque de Caxias',              'Fundinho',            38400130, 2386),
 (1247, 'Avenida Rondon Pacheco',           'Martins',             38400140, 2386),
@@ -1362,7 +1362,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1267, 'Avenida José Fonseca e Silva',     'Patrimônio',          38400220, 2386),
 (1268, 'Rua Mansour',                      'Mansour',             38407200, 2386);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1269, 'Avenida Rio Branco',               'Centro',                  20040008, 3662),
 (1270, 'Avenida Atlântica',                'Copacabana',              22021000, 3662),
 (1271, 'Rua Visconde de Pirajá',           'Ipanema',                 22410001, 3662),
@@ -1404,7 +1404,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1307, 'Rua Cosme Velho',                  'Cosme Velho',             22241090, 3662),
 (1308, 'Rua do Santo Cristo',              'Santo Cristo',            20220290, 3662);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1309, 'Rua Visconde do Rio Branco',       'Centro',           24020005, 3642),
 (1310, 'Rua Miguel de Frias',              'Icaraí',           24220006, 3642),
 (1311, 'Avenida Roberto Silveira',         'Santa Rosa',       24240230, 3642),
@@ -1430,7 +1430,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1331, 'Rua Itacoatiara',                  'Itacoatiara',      24348000, 3642),
 (1332, 'Rua Cafubá',                       'Cafubá',           24350100, 3642);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1333, 'Praça da Sé',                      'Sé',                1001000, 5285),
 (1334, 'Avenida Ipiranga',                 'República',         1046010, 5285),
 (1335, 'Rua da Consolação',                'Consolação',        1302000, 5285),
@@ -1477,7 +1477,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1376, 'Rua Funchal',                      'Vila Olímpia',      4551060, 5285),
 (1377, 'Avenida Imperatriz Leopoldina',    'Vila Leopoldina',   5305000, 5285);
 
-INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1378, 'Rua Barão de Jaguara',             'Centro',                13015001, 4813),
 (1379, 'Rua Coronel Quirino',              'Cambuí',                13025002, 4813),
 (1380, 'Rua Guanabara',                    'Guanabara',             13073120, 4813),
@@ -1505,7 +1505,7 @@ INSERT INTO local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 
 –SUL
 
-INSERT INTO sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
+INSERT INTO sistema_transito.sistema_transito.local (idlocal, logradouro, bairro, CEP, idcidade) VALUES
 (1402, 'Rua XV de Novembro',               'Centro',              80020010, 2878),
 (1403, 'Avenida Batel',                    'Batel',               80420090, 2878),
 (1404, 'Avenida República Argentina',      'Água Verde',          80240210, 2878),
