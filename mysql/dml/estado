@@ -1,4 +1,4 @@
-INSERT INTO estado (idestado, nome, sigla) VALUES
+INSERT INTO sistema_transito.estado (idestado, nome, sigla) VALUES
 (1,  'Acre',                'AC'),
 (2,  'Alagoas',             'AL'),
 (3,  'Amapá',               'AP'),
