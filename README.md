@@ -6,10 +6,7 @@ Solução de dados para um sistema inteligente de controle de trânsito, que com
 
 ## Integrantes
 
-- [Nome do integrante 1]
-- [Nome do integrante 2]
-- [Nome do integrante 3]
-- [Nome do integrante 4]
+- [Nome dos integrantes]
 
 **Disciplina:** Banco de Dados
 **Professor(a):** [nome]
