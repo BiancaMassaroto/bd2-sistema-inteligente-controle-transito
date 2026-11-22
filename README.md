@@ -17,11 +17,11 @@ O sistema gerencia dispositivos de monitoramento de trânsito (câmeras, sensore
 
 Como o monitoramento gera grandes volumes de informação continuamente, a solução usa dois bancos com papéis diferentes.
 
-## Arquitetura: por que dois bancos?
+## Arquitetura:
 
 ### MySQL (dados estruturados e relacionados)
 
-Guarda os dados com estrutura bem definida e relações claras entre si, que exigem integridade referencial:
+Guarda os dados que exigem integridade referencial:
 
 - localização: estados, cidades e locais;
 - dispositivos e sua instalação;
