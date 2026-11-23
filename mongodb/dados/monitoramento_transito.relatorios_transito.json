@@ -1,0 +1,8360 @@
+[{
+  "_id": {
+    "$oid": "6b04920383d15529af735dbf"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-01",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-01T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "acidente": 2,
+    "veiculo_parado": 3,
+    "alagamento": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dc0"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-02",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-02T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-02T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 13,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "alagamento": 7,
+    "acidente": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dc1"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-03",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-03T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-03T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 1,
+    "alagamento": 4,
+    "acidente": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dc2"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-04",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-04T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-04T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 3,
+    "acidente": 4,
+    "alagamento": 4
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dc3"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-05",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-05T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-05T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "acidente": 6,
+    "veiculo_parado": 4,
+    "alagamento": 2
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dc4"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-06",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-06T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-06T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 13,
+  "ocorrencias_por_tipo": {
+    "acidente": 1,
+    "alagamento": 9,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dc5"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-07",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-07T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-07T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "alagamento": 4,
+    "veiculo_parado": 2
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dc6"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-08",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-08T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-08T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 1,
+    "alagamento": 4,
+    "acidente": 5
+  },
+  "total_infracoes": 5
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dc7"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-09",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-09T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-09T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "acidente": 1,
+    "veiculo_parado": 5
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dc8"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-10",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-10T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-10T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 13,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 3,
+    "alagamento": 6
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dc9"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-11",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-11T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-11T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 17,
+  "ocorrencias_por_tipo": {
+    "acidente": 10,
+    "veiculo_parado": 1,
+    "alagamento": 6
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dca"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-12",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-12T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-12T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "veiculo_parado": 4,
+    "alagamento": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dcb"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-13",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-13T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-13T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 13,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "veiculo_parado": 5,
+    "alagamento": 4
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dcc"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-14",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-14T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-14T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "alagamento": 4,
+    "acidente": 3,
+    "veiculo_parado": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dcd"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-15",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-15T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-15T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "acidente": 5,
+    "veiculo_parado": 2,
+    "alagamento": 5
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dce"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-16",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-16T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-16T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 13,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 7,
+    "alagamento": 5,
+    "acidente": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dcf"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-17",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-17T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-17T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "veiculo_parado": 2,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dd0"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-18",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-18T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-18T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "alagamento": 5,
+    "veiculo_parado": 5,
+    "acidente": 2
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dd1"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-19",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-19T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-19T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "alagamento": 4,
+    "acidente": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dd2"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-20",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-20T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-20T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 17,
+  "ocorrencias_por_tipo": {
+    "acidente": 8,
+    "veiculo_parado": 7,
+    "alagamento": 2
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dd3"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-21",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-21T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-21T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "acidente": 7,
+    "alagamento": 1,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dd4"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-22",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-22T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-22T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "alagamento": 5,
+    "acidente": 5,
+    "veiculo_parado": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dd5"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-23",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-23T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-23T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "alagamento": 4,
+    "veiculo_parado": 2,
+    "acidente": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dd6"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-24",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-24T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-24T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "acidente": 5,
+    "veiculo_parado": 4,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dd7"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-25",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-25T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-25T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "alagamento": 2,
+    "veiculo_parado": 5,
+    "acidente": 2
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dd8"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-26",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-26T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-26T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "alagamento": 1,
+    "acidente": 4,
+    "veiculo_parado": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dd9"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-27",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-27T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-27T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "alagamento": 7,
+    "acidente": 2,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dda"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-28",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-28T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-28T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 3,
+    "acidente": 5,
+    "alagamento": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ddb"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-29",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-29T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-29T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "acidente": 5,
+    "alagamento": 3,
+    "veiculo_parado": 2
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ddc"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-30",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-30T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-30T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 5,
+    "acidente": 2,
+    "alagamento": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ddd"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-01-31",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-31T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-31T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 13,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 1,
+    "alagamento": 6,
+    "acidente": 6
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dde"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-01",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-01T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-01T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "alagamento": 4,
+    "veiculo_parado": 3,
+    "acidente": 4
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ddf"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-02",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-02T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-02T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 2,
+    "acidente": 4,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735de0"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-03",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-03T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-03T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 3,
+    "acidente": 4
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735de1"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-04",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-04T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-04T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "acidente": 6,
+    "veiculo_parado": 4,
+    "alagamento": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735de2"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-05",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-05T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-05T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "alagamento": 4,
+    "acidente": 3,
+    "veiculo_parado": 5
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735de3"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-06",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-06T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-06T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "acidente": 6,
+    "veiculo_parado": 4
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735de4"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-07",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-07T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-07T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 13,
+  "ocorrencias_por_tipo": {
+    "acidente": 8,
+    "veiculo_parado": 5
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735de5"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-08",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-08T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-08T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "alagamento": 5,
+    "veiculo_parado": 2,
+    "acidente": 1
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735de6"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-09",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-09T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-09T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "acidente": 5,
+    "alagamento": 5,
+    "veiculo_parado": 2
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735de7"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-10",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-10T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-10T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 3,
+    "alagamento": 4,
+    "acidente": 3
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735de8"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-11",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-11T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-11T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 5,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 2,
+    "alagamento": 1,
+    "acidente": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735de9"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-12",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-12T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-12T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 13,
+  "ocorrencias_por_tipo": {
+    "alagamento": 8,
+    "veiculo_parado": 2,
+    "acidente": 3
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dea"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-13",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-13T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-13T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 16,
+  "ocorrencias_por_tipo": {
+    "acidente": 8,
+    "veiculo_parado": 5,
+    "alagamento": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735deb"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-14",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-14T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-14T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "alagamento": 5,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dec"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-15",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-15T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-15T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 2,
+  "ocorrencias_por_tipo": {
+    "alagamento": 1,
+    "acidente": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ded"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-16",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-16T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-16T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "alagamento": 2,
+    "veiculo_parado": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dee"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-17",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-17T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-17T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 13,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 6,
+    "alagamento": 3,
+    "acidente": 4
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735def"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-18",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-18T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-18T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 13,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 4,
+    "alagamento": 5
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735df0"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-19",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-19T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-19T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "alagamento": 5,
+    "veiculo_parado": 3,
+    "acidente": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735df1"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-20",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-20T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-20T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 4,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735df2"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-21",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-21T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-21T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "alagamento": 1,
+    "veiculo_parado": 5
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735df3"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-22",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-22T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-22T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "acidente": 2,
+    "alagamento": 2,
+    "veiculo_parado": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735df4"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-23",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-23T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-23T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 5,
+  "ocorrencias_por_tipo": {
+    "acidente": 2,
+    "alagamento": 2,
+    "veiculo_parado": 1
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735df5"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-24",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-24T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-24T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 2,
+    "acidente": 2,
+    "alagamento": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735df6"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-25",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-25T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-25T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "alagamento": 1,
+    "veiculo_parado": 6
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735df7"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-26",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-26T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-26T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 3,
+    "alagamento": 2,
+    "acidente": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735df8"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-27",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-27T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-27T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "alagamento": 6,
+    "veiculo_parado": 2,
+    "acidente": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735df9"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-02-28",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-28T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-28T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "alagamento": 2,
+    "veiculo_parado": 6
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dfa"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-01",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-01T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-01T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 5,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "veiculo_parado": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dfb"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-02",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-02T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-02T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "acidente": 5,
+    "alagamento": 3,
+    "veiculo_parado": 4
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dfc"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-03",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-03T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-03T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 13,
+  "ocorrencias_por_tipo": {
+    "acidente": 6,
+    "veiculo_parado": 2,
+    "alagamento": 5
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dfd"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-04",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-04T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-04T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "veiculo_parado": 3,
+    "alagamento": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dfe"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-05",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-05T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-05T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 15,
+  "ocorrencias_por_tipo": {
+    "alagamento": 9,
+    "veiculo_parado": 5,
+    "acidente": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735dff"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-06",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-06T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-06T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 5,
+    "alagamento": 2,
+    "acidente": 4
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e00"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-07",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-07T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-07T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 3,
+    "alagamento": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e01"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-08",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-08T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-08T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 7,
+    "acidente": 3,
+    "alagamento": 2
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e02"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-09",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-09T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-09T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "alagamento": 5,
+    "acidente": 2,
+    "veiculo_parado": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e03"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-10",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-10T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-10T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "acidente": 1,
+    "alagamento": 3,
+    "veiculo_parado": 2
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e04"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-11",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-11T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-11T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "alagamento": 3,
+    "acidente": 4,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e05"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-12",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-12T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-12T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "alagamento": 3,
+    "acidente": 1,
+    "veiculo_parado": 2
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e06"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-13",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-13T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-13T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "alagamento": 3,
+    "acidente": 3,
+    "veiculo_parado": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e07"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-14",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-14T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-14T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 13,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "veiculo_parado": 3,
+    "alagamento": 6
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e08"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-15",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-15T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-15T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "acidente": 6,
+    "alagamento": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e09"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-16",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-16T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-16T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "acidente": 5,
+    "alagamento": 1,
+    "veiculo_parado": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e0a"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-17",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-17T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-17T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 17,
+  "ocorrencias_por_tipo": {
+    "alagamento": 9,
+    "veiculo_parado": 4,
+    "acidente": 4
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e0b"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-18",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-18T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-18T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "veiculo_parado": 4,
+    "alagamento": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e0c"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-19",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-19T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-19T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "alagamento": 3,
+    "acidente": 5
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e0d"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-20",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-20T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-20T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "alagamento": 5,
+    "acidente": 5,
+    "veiculo_parado": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e0e"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-21",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-21T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-21T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "alagamento": 6,
+    "veiculo_parado": 3,
+    "acidente": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e0f"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-22",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-22T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-22T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "alagamento": 3,
+    "veiculo_parado": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e10"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-23",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-23T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-23T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 13,
+  "ocorrencias_por_tipo": {
+    "acidente": 5,
+    "veiculo_parado": 5,
+    "alagamento": 3
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e11"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-24",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-24T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-24T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "alagamento": 4,
+    "acidente": 3,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e12"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-25",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-25T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-25T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "alagamento": 3,
+    "acidente": 2,
+    "veiculo_parado": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e13"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-26",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-26T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-26T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 2,
+    "alagamento": 2,
+    "acidente": 4
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e14"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-27",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-27T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-27T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "veiculo_parado": 2,
+    "alagamento": 2
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e15"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-28",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-28T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-28T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "alagamento": 3,
+    "veiculo_parado": 3,
+    "acidente": 4
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e16"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-29",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-29T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-29T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 2,
+    "alagamento": 4
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e17"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-30",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-30T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-30T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "acidente": 5,
+    "alagamento": 4
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e18"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-03-31",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-31T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-31T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "alagamento": 4,
+    "acidente": 2
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e19"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-01",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-01T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-01T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 14,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 9,
+    "alagamento": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e1a"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-02",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-02T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-02T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "alagamento": 1,
+    "acidente": 1,
+    "veiculo_parado": 4
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e1b"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-03",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-03T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-03T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 1,
+    "alagamento": 2,
+    "acidente": 5
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e1c"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-04",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-04T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-04T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "veiculo_parado": 2,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e1d"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-05",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-05T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-05T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "alagamento": 1,
+    "acidente": 3,
+    "veiculo_parado": 4
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e1e"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-06",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-06T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-06T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "alagamento": 2,
+    "veiculo_parado": 3,
+    "acidente": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e1f"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-07",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-07T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-07T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "acidente": 2,
+    "veiculo_parado": 4
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e20"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-08",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-08T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-08T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "veiculo_parado": 3,
+    "alagamento": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e21"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-09",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-09T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-09T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 7,
+    "acidente": 2,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e22"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-10",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-10T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-10T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 7,
+    "alagamento": 1,
+    "acidente": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e23"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-11",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-11T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-11T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "alagamento": 2,
+    "acidente": 4,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e24"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-12",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-12T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-12T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 4,
+  "ocorrencias_por_tipo": {
+    "acidente": 4
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e25"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-13",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-13T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-13T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 14,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 6,
+    "acidente": 5,
+    "alagamento": 3
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e26"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-14",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-14T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-14T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "acidente": 8,
+    "veiculo_parado": 2
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e27"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-15",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-15T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-15T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "alagamento": 3,
+    "veiculo_parado": 5
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e28"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-16",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-16T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-16T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "alagamento": 5,
+    "acidente": 2,
+    "veiculo_parado": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e29"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-17",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-17T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-17T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "alagamento": 1,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e2a"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-18",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-18T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-18T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 4,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 3,
+    "acidente": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e2b"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-19",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-19T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-19T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "alagamento": 2,
+    "veiculo_parado": 3,
+    "acidente": 4
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e2c"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-20",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-20T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-20T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 5,
+    "acidente": 2
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e2d"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-21",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-21T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-21T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "alagamento": 2,
+    "acidente": 8,
+    "veiculo_parado": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e2e"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-22",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-22T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-22T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "acidente": 2,
+    "alagamento": 1,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e2f"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-23",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-23T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-23T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 6,
+    "alagamento": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e30"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-24",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-24T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-24T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 6,
+    "acidente": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e31"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-25",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-25T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-25T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 13,
+  "ocorrencias_por_tipo": {
+    "acidente": 6,
+    "veiculo_parado": 4,
+    "alagamento": 3
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e32"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-26",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-26T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-26T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "acidente": 6,
+    "veiculo_parado": 4
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e33"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-27",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-27T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-27T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 5,
+    "acidente": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e34"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-28",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-28T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-28T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "alagamento": 3,
+    "veiculo_parado": 4,
+    "acidente": 4
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e35"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-29",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-29T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-29T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 4,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e36"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-04-30",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-30T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-30T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 2,
+    "acidente": 5,
+    "alagamento": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e37"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-01",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-01T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-01T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "acidente": 6,
+    "veiculo_parado": 5,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e38"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-02",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-02T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-02T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 5,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "veiculo_parado": 1,
+    "alagamento": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e39"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-03",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-03T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-03T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 5,
+    "alagamento": 2,
+    "acidente": 3
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e3a"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-04",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-04T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-04T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "acidente": 2,
+    "veiculo_parado": 3,
+    "alagamento": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e3b"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-05",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-05T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-05T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "alagamento": 4,
+    "veiculo_parado": 3,
+    "acidente": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e3c"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-06",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-06T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-06T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 5,
+    "alagamento": 2,
+    "acidente": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e3d"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-07",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-07T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-07T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 4,
+  "ocorrencias_por_tipo": {
+    "acidente": 1,
+    "alagamento": 2,
+    "veiculo_parado": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e3e"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-08",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-08T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-08T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 4,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 2,
+    "acidente": 2
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e3f"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-09",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-09T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-09T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 14,
+  "ocorrencias_por_tipo": {
+    "acidente": 8,
+    "veiculo_parado": 4,
+    "alagamento": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e40"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-10",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-10T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-10T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 13,
+  "ocorrencias_por_tipo": {
+    "acidente": 6,
+    "alagamento": 4,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e41"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-11",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-11T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-11T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 5,
+    "acidente": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e42"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-12",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-12T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-12T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "acidente": 5,
+    "veiculo_parado": 3,
+    "alagamento": 4
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e43"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-13",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-13T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-13T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 6,
+    "acidente": 6
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e44"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-14",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-14T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-14T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "veiculo_parado": 3,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e45"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-15",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-15T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-15T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "acidente": 5,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e46"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-16",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-16T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-16T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "alagamento": 4,
+    "veiculo_parado": 4,
+    "acidente": 4
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e47"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-17",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-17T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-17T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "alagamento": 3,
+    "acidente": 6,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e48"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-18",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-18T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-18T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "acidente": 6,
+    "veiculo_parado": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e49"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-19",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-19T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-19T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 6,
+    "acidente": 3
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e4a"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-20",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-20T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-20T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 5,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e4b"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-21",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-21T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-21T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "veiculo_parado": 2,
+    "alagamento": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e4c"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-22",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-22T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-22T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 4
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e4d"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-23",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-23T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-23T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "alagamento": 4,
+    "veiculo_parado": 5
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e4e"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-24",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-24T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-24T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "acidente": 6,
+    "veiculo_parado": 5
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e4f"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-25",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-25T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-25T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "alagamento": 2,
+    "veiculo_parado": 2
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e50"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-26",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-26T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-26T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "alagamento": 2,
+    "acidente": 3,
+    "veiculo_parado": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e51"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-27",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-27T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-27T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "alagamento": 4,
+    "veiculo_parado": 2,
+    "acidente": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e52"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-28",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-28T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-28T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "veiculo_parado": 4,
+    "alagamento": 3
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e53"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-29",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-29T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-29T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "acidente": 8,
+    "alagamento": 1,
+    "veiculo_parado": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e54"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-30",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-30T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-30T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 5,
+    "alagamento": 3,
+    "acidente": 4
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e55"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-05-31",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-31T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-31T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 2,
+    "acidente": 5,
+    "alagamento": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e56"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-01",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-01T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-01T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "alagamento": 3,
+    "veiculo_parado": 4,
+    "acidente": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e57"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-02",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-02T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-02T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 2,
+    "alagamento": 3,
+    "acidente": 3
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e58"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-03",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-03T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-03T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "acidente": 2,
+    "alagamento": 2,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e59"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-04",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-04T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-04T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 6,
+    "acidente": 6
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e5a"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-05",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-05T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-05T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 5,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "veiculo_parado": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e5b"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-06",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-06T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-06T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 3,
+    "alagamento": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e5c"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-07",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-07T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-07T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 15,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "alagamento": 3,
+    "acidente": 8
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e5d"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-08",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-08T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-08T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e5e"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-09",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-09T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-09T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 5,
+  "ocorrencias_por_tipo": {
+    "alagamento": 1,
+    "acidente": 4
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e5f"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-10",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-10T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-10T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 3,
+    "alagamento": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e60"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-11",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-11T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-11T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "acidente": 6,
+    "veiculo_parado": 3,
+    "alagamento": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e61"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-12",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-12T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-12T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 13,
+  "ocorrencias_por_tipo": {
+    "acidente": 8,
+    "veiculo_parado": 3,
+    "alagamento": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e62"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-13",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-13T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-13T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 3,
+    "acidente": 5,
+    "alagamento": 2
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e63"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-14",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-14T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-14T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 5,
+  "ocorrencias_por_tipo": {
+    "acidente": 2,
+    "alagamento": 1,
+    "veiculo_parado": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e64"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-15",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-15T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-15T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "veiculo_parado": 2,
+    "alagamento": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e65"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-16",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-16T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-16T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 16,
+  "ocorrencias_por_tipo": {
+    "acidente": 6,
+    "alagamento": 3,
+    "veiculo_parado": 7
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e66"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-17",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-17T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-17T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "acidente": 5,
+    "veiculo_parado": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e67"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-18",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-18T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-18T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 2,
+    "alagamento": 1,
+    "acidente": 6
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e68"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-19",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-19T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-19T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "alagamento": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e69"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-20",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-20T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-20T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 6,
+    "acidente": 3,
+    "alagamento": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e6a"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-21",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-21T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-21T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 5
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e6b"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-22",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-22T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-22T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "veiculo_parado": 2,
+    "alagamento": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e6c"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-23",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-23T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-23T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "alagamento": 3,
+    "acidente": 4,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e6d"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-24",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-24T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-24T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 5,
+    "alagamento": 3
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e6e"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-25",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-25T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-25T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "veiculo_parado": 5,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e6f"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-26",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-26T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-26T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "veiculo_parado": 4,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e70"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-27",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-27T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-27T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 5,
+    "acidente": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e71"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-28",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-28T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-28T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 13,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "veiculo_parado": 5,
+    "alagamento": 4
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e72"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-29",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-29T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-29T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "acidente": 5,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e73"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-06-30",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-30T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-30T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "alagamento": 4,
+    "veiculo_parado": 2
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e74"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-01",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-01T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-01T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 2,
+    "alagamento": 1,
+    "acidente": 4
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e75"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-02",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-02T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-02T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 6,
+    "alagamento": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e76"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-03",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-03T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-03T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "acidente": 8,
+    "veiculo_parado": 2,
+    "alagamento": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e77"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-04",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-04T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-04T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 5,
+    "alagamento": 1,
+    "acidente": 3
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e78"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-05",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-05T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-05T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "alagamento": 2,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e79"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-06",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-06T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-06T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "acidente": 1,
+    "alagamento": 3,
+    "veiculo_parado": 5
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e7a"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-07",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-07T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-07T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 3,
+    "acidente": 7,
+    "alagamento": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e7b"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-08",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-08T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-08T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "acidente": 6,
+    "veiculo_parado": 4,
+    "alagamento": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e7c"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-09",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-09T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-09T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 15,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 5,
+    "acidente": 7,
+    "alagamento": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e7d"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-10",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-10T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-10T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "veiculo_parado": 4,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e7e"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-11",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-11T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-11T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 13,
+  "ocorrencias_por_tipo": {
+    "acidente": 7,
+    "alagamento": 3,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e7f"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-12",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-12T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-12T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "alagamento": 3,
+    "veiculo_parado": 5
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e80"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-13",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-13T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-13T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "alagamento": 2,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e81"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-14",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-14T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-14T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "alagamento": 1,
+    "veiculo_parado": 3,
+    "acidente": 2
+  },
+  "total_infracoes": 3
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e82"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-15",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-15T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-15T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 15,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 9,
+    "alagamento": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e83"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-16",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-16T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-16T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "veiculo_parado": 5,
+    "alagamento": 1
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e84"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-17",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-17T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-17T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "acidente": 6,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e85"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-18",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-18T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-18T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "acidente": 6,
+    "veiculo_parado": 3,
+    "alagamento": 2
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e86"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-19",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-19T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-19T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 1,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e87"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-20",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-20T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-20T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 14,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 5,
+    "alagamento": 4,
+    "acidente": 5
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e88"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-21",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-21T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-21T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 6,
+    "alagamento": 3,
+    "acidente": 3
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e89"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-22",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-22T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-22T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "veiculo_parado": 4,
+    "alagamento": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e8a"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-23",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-23T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-23T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 2,
+    "alagamento": 3,
+    "acidente": 5
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e8b"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-24",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-24T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-24T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "alagamento": 4,
+    "acidente": 4,
+    "veiculo_parado": 2
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e8c"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-25",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-25T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-25T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 6,
+    "acidente": 3
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e8d"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-26",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-26T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-26T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 15,
+  "ocorrencias_por_tipo": {
+    "acidente": 9,
+    "alagamento": 2,
+    "veiculo_parado": 4
+  },
+  "total_infracoes": 3
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e8e"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-27",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-27T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-27T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 16,
+  "ocorrencias_por_tipo": {
+    "acidente": 9,
+    "veiculo_parado": 4,
+    "alagamento": 3
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e8f"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-28",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-28T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-28T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "alagamento": 2,
+    "acidente": 6,
+    "veiculo_parado": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e90"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-29",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-29T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-29T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "acidente": 5,
+    "veiculo_parado": 3,
+    "alagamento": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e91"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-30",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-30T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-30T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "acidente": 2,
+    "alagamento": 4,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e92"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-07-31",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-31T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-31T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "alagamento": 2,
+    "veiculo_parado": 4,
+    "acidente": 2
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e93"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-01",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-01T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-01T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "acidente": 5,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e94"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-02",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-02T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-02T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 15,
+  "ocorrencias_por_tipo": {
+    "acidente": 8,
+    "alagamento": 1,
+    "veiculo_parado": 6
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e95"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-03",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-03T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-03T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 5,
+    "acidente": 5,
+    "alagamento": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e96"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-04",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-04T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-04T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 2,
+    "alagamento": 3,
+    "acidente": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e97"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-05",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-05T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-05T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 5,
+    "alagamento": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e98"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-06",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-06T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-06T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 3,
+    "acidente": 4
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e99"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-07",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-07T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-07T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 6,
+    "acidente": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e9a"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-08",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-08T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-08T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "alagamento": 1,
+    "acidente": 3,
+    "veiculo_parado": 2
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e9b"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-09",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-09T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-09T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 13,
+  "ocorrencias_por_tipo": {
+    "acidente": 5,
+    "alagamento": 2,
+    "veiculo_parado": 6
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e9c"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-10",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-10T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-10T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "alagamento": 1,
+    "acidente": 2,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e9d"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-11",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-11T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-11T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 2,
+    "acidente": 4,
+    "alagamento": 2
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e9e"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-12",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-12T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-12T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 4,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 2,
+    "alagamento": 2
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735e9f"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-13",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-13T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-13T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 3,
+    "alagamento": 1,
+    "acidente": 4
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ea0"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-14",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-14T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-14T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 5,
+  "ocorrencias_por_tipo": {
+    "acidente": 2,
+    "veiculo_parado": 2,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ea1"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-15",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-15T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-15T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "veiculo_parado": 3,
+    "alagamento": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ea2"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-16",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-16T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-16T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 5,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "veiculo_parado": 1
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ea3"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-17",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-17T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-17T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 4,
+  "ocorrencias_por_tipo": {
+    "alagamento": 2,
+    "acidente": 2
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ea4"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-18",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-18T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-18T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "veiculo_parado": 1,
+    "alagamento": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ea5"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-19",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-19T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-19T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 15,
+  "ocorrencias_por_tipo": {
+    "acidente": 6,
+    "veiculo_parado": 7,
+    "alagamento": 2
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ea6"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-20",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-20T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-20T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "veiculo_parado": 3,
+    "alagamento": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ea7"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-21",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-21T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-21T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 5,
+    "alagamento": 2,
+    "acidente": 2
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ea8"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-22",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-22T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-22T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 6,
+    "acidente": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ea9"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-23",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-23T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-23T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 5,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "veiculo_parado": 1,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735eaa"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-24",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-24T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-24T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 2,
+    "alagamento": 1,
+    "acidente": 7
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735eab"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-25",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-25T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-25T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 14,
+  "ocorrencias_por_tipo": {
+    "acidente": 8,
+    "veiculo_parado": 5,
+    "alagamento": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735eac"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-26",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-26T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-26T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 4,
+    "alagamento": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ead"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-27",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-27T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-27T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "acidente": 8,
+    "veiculo_parado": 1,
+    "alagamento": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735eae"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-28",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-28T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-28T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 2,
+    "alagamento": 2,
+    "acidente": 3
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735eaf"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-29",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-29T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-29T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "alagamento": 1,
+    "acidente": 4,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735eb0"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-30",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-30T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-30T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 4,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 2,
+    "acidente": 1,
+    "alagamento": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735eb1"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-08-31",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-31T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-31T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 2
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735eb2"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-01",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-01T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-01T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "alagamento": 2,
+    "acidente": 6,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735eb3"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-02",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-02T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-02T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "acidente": 7,
+    "alagamento": 1,
+    "veiculo_parado": 4
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735eb4"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-03",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-03T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-03T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 17,
+  "ocorrencias_por_tipo": {
+    "alagamento": 2,
+    "veiculo_parado": 12,
+    "acidente": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735eb5"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-04",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-04T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-04T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 1,
+    "alagamento": 1
+  },
+  "total_infracoes": 3
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735eb6"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-05",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-05T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-05T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "alagamento": 3,
+    "veiculo_parado": 3,
+    "acidente": 6
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735eb7"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-06",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-06T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-06T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "veiculo_parado": 5,
+    "alagamento": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735eb8"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-07",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-07T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-07T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "alagamento": 2,
+    "veiculo_parado": 2,
+    "acidente": 5
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735eb9"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-08",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-08T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-08T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 3,
+    "alagamento": 1,
+    "acidente": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735eba"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-09",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-09T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-09T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 6
+  },
+  "total_infracoes": 3
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ebb"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-10",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-10T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-10T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "alagamento": 2,
+    "acidente": 4,
+    "veiculo_parado": 2
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ebc"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-11",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-11T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-11T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "acidente": 6,
+    "veiculo_parado": 2,
+    "alagamento": 2
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ebd"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-12",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-12T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-12T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 4,
+  "ocorrencias_por_tipo": {
+    "alagamento": 1,
+    "veiculo_parado": 2,
+    "acidente": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ebe"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-13",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-13T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-13T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 5,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 1,
+    "acidente": 1,
+    "alagamento": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ebf"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-14",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-14T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-14T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 4,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ec0"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-15",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-15T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-15T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 3,
+    "acidente": 3,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ec1"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-16",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-16T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-16T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 14,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 3,
+    "alagamento": 3,
+    "acidente": 8
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ec2"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-17",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-17T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-17T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "veiculo_parado": 3,
+    "alagamento": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ec3"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-18",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-18T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-18T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "alagamento": 4,
+    "acidente": 5,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ec4"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-19",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-19T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-19T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 2,
+    "alagamento": 2
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ec5"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-20",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-20T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-20T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "alagamento": 2,
+    "veiculo_parado": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ec6"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-21",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-21T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-21T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "alagamento": 2,
+    "veiculo_parado": 5,
+    "acidente": 4
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ec7"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-22",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-22T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-22T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "veiculo_parado": 4,
+    "alagamento": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ec8"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-23",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-23T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-23T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 5,
+    "acidente": 3
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ec9"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-24",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-24T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-24T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "acidente": 1,
+    "veiculo_parado": 2,
+    "alagamento": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735eca"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-25",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-25T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-25T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "acidente": 7,
+    "veiculo_parado": 3,
+    "alagamento": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ecb"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-26",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-26T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-26T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "alagamento": 3,
+    "acidente": 4,
+    "veiculo_parado": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ecc"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-27",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-27T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-27T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "alagamento": 2,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ecd"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-28",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-28T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-28T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 2,
+    "acidente": 6,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ece"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-29",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-29T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-29T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "acidente": 1,
+    "veiculo_parado": 2,
+    "alagamento": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ecf"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-09-30",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-30T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-30T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 3,
+    "acidente": 7,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ed0"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-01",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-01T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-01T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "alagamento": 2,
+    "veiculo_parado": 2,
+    "acidente": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ed1"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-02",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-02T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-02T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "acidente": 5,
+    "veiculo_parado": 1,
+    "alagamento": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ed2"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-03",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-03T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-03T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ed3"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-04",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-04T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-04T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 14,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 6,
+    "acidente": 5,
+    "alagamento": 3
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ed4"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-05",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-05T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-05T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 2,
+    "alagamento": 2,
+    "acidente": 4
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ed5"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-06",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-06T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-06T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 3,
+    "alagamento": 2
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ed6"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-07",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-07T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-07T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 3
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ed7"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-08",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-08T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-08T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 15,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 5,
+    "acidente": 6,
+    "alagamento": 4
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ed8"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-09",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-09T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-09T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 3,
+    "alagamento": 1
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ed9"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-10",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-10T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-10T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 5,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735eda"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-11",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-11T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-11T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 14,
+  "ocorrencias_por_tipo": {
+    "acidente": 8,
+    "veiculo_parado": 5,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735edb"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-12",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-12T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-12T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "acidente": 6,
+    "veiculo_parado": 3,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735edc"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-13",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-13T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-13T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 14,
+  "ocorrencias_por_tipo": {
+    "acidente": 5,
+    "alagamento": 3,
+    "veiculo_parado": 6
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735edd"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-14",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-14T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-14T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 14,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 6,
+    "acidente": 8
+  },
+  "total_infracoes": 3
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ede"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-15",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-15T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-15T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 13,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 6,
+    "alagamento": 2,
+    "acidente": 5
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735edf"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-16",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-16T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-16T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "acidente": 5,
+    "veiculo_parado": 5
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ee0"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-17",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-17T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-17T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "alagamento": 2,
+    "veiculo_parado": 6
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ee1"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-18",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-18T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-18T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "alagamento": 2,
+    "veiculo_parado": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ee2"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-19",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-19T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-19T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "acidente": 5,
+    "alagamento": 1,
+    "veiculo_parado": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ee3"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-20",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-20T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-20T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "veiculo_parado": 4
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ee4"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-21",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-21T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-21T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 3
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ee5"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-22",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-22T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-22T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 12,
+  "ocorrencias_por_tipo": {
+    "alagamento": 2,
+    "veiculo_parado": 5,
+    "acidente": 5
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ee6"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-23",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-23T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-23T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 5,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 2,
+    "acidente": 2,
+    "alagamento": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ee7"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-24",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-24T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-24T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 14,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 7,
+    "acidente": 7
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ee8"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-25",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-25T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-25T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "acidente": 5,
+    "alagamento": 4
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ee9"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-26",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-26T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-26T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 14,
+  "ocorrencias_por_tipo": {
+    "alagamento": 5,
+    "acidente": 5,
+    "veiculo_parado": 4
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735eea"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-27",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-27T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-27T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 5,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "veiculo_parado": 1,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735eeb"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-28",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-28T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-28T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 3,
+    "alagamento": 2,
+    "acidente": 4
+  },
+  "total_infracoes": 3
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735eec"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-29",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-29T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-29T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "alagamento": 1,
+    "acidente": 5,
+    "veiculo_parado": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735eed"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-30",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-30T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-30T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 6,
+    "alagamento": 2,
+    "acidente": 2
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735eee"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-10-31",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-31T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-31T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 6,
+    "alagamento": 3,
+    "acidente": 2
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735eef"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-11-01",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-11-01T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-11-01T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "acidente": 6,
+    "veiculo_parado": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ef0"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-11-02",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-11-02T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-11-02T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "acidente": 3,
+    "veiculo_parado": 5,
+    "alagamento": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ef1"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-11-03",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-11-03T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-11-03T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 5,
+    "acidente": 4,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ef2"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-11-04",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-11-04T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-11-04T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 5,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ef3"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-11-05",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-11-05T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-11-05T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "acidente": 5,
+    "veiculo_parado": 5
+  },
+  "total_infracoes": 2
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ef4"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-11-06",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-11-06T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-11-06T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 5,
+  "ocorrencias_por_tipo": {
+    "acidente": 2,
+    "veiculo_parado": 2,
+    "alagamento": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ef5"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-11-07",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-11-07T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-11-07T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 5,
+    "alagamento": 3,
+    "acidente": 2
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ef6"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-11-08",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-11-08T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-11-08T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 5,
+    "acidente": 3,
+    "alagamento": 2
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ef7"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-11-09",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-11-09T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-11-09T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 14,
+  "ocorrencias_por_tipo": {
+    "alagamento": 3,
+    "acidente": 10,
+    "veiculo_parado": 1
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ef8"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-11-10",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-11-10T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-11-10T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "acidente": 4,
+    "veiculo_parado": 6,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735ef9"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-11-11",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-11-11T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-11-11T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "acidente": 3,
+    "alagamento": 3
+  },
+  "total_infracoes": 1
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735efa"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-11-12",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-11-12T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-11-12T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 4,
+    "alagamento": 1,
+    "acidente": 5
+  },
+  "total_infracoes": 0,
+  "trafego": {
+    "dispositivos_monitorados": 20,
+    "total_veiculos_amostra": 468177,
+    "velocidade_media_kmh": 48.5,
+    "horario_pico": "17:00",
+    "leituras_abaixo_20kmh": 1644
+  }
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735efb"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-11-13",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-11-13T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-11-13T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 9,
+  "ocorrencias_por_tipo": {
+    "acidente": 5,
+    "alagamento": 1,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 1,
+  "trafego": {
+    "dispositivos_monitorados": 20,
+    "total_veiculos_amostra": 465631,
+    "velocidade_media_kmh": 48.6,
+    "horario_pico": "17:00",
+    "leituras_abaixo_20kmh": 1594
+  }
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735efc"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-11-14",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-11-14T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-11-14T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 10,
+  "ocorrencias_por_tipo": {
+    "acidente": 5,
+    "veiculo_parado": 2,
+    "alagamento": 3
+  },
+  "total_infracoes": 0,
+  "trafego": {
+    "dispositivos_monitorados": 20,
+    "total_veiculos_amostra": 360898,
+    "velocidade_media_kmh": 51.89,
+    "horario_pico": "17:00",
+    "leituras_abaixo_20kmh": 83
+  }
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735efd"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-11-15",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-11-15T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-11-15T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "acidente": 7,
+    "alagamento": 2,
+    "veiculo_parado": 2
+  },
+  "total_infracoes": 0,
+  "trafego": {
+    "dispositivos_monitorados": 20,
+    "total_veiculos_amostra": 363888,
+    "velocidade_media_kmh": 51.96,
+    "horario_pico": "17:00",
+    "leituras_abaixo_20kmh": 20
+  }
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735efe"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-11-16",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-11-16T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-11-16T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 6,
+    "alagamento": 1,
+    "acidente": 1
+  },
+  "total_infracoes": 0,
+  "trafego": {
+    "dispositivos_monitorados": 20,
+    "total_veiculos_amostra": 463358,
+    "velocidade_media_kmh": 48.63,
+    "horario_pico": "17:00",
+    "leituras_abaixo_20kmh": 1590
+  }
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735eff"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-11-17",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-11-17T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 6,
+  "ocorrencias_por_tipo": {
+    "acidente": 5,
+    "alagamento": 1
+  },
+  "total_infracoes": 2,
+  "trafego": {
+    "dispositivos_monitorados": 20,
+    "total_veiculos_amostra": 470795,
+    "velocidade_media_kmh": 48.58,
+    "horario_pico": "17:00",
+    "leituras_abaixo_20kmh": 1565
+  }
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735f00"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-11-18",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-11-18T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-11-18T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 11,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 6,
+    "alagamento": 1,
+    "acidente": 4
+  },
+  "total_infracoes": 0,
+  "trafego": {
+    "dispositivos_monitorados": 20,
+    "total_veiculos_amostra": 470355,
+    "velocidade_media_kmh": 48.68,
+    "horario_pico": "17:00",
+    "leituras_abaixo_20kmh": 1531
+  }
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735f01"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-11-19",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-11-19T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-11-19T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 8,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 2,
+    "acidente": 5,
+    "alagamento": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735f02"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-11-20",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-11-20T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-11-20T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 4,
+  "ocorrencias_por_tipo": {
+    "acidente": 2,
+    "alagamento": 1,
+    "veiculo_parado": 1
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735f03"
+  },
+  "tipo_periodo": "diario",
+  "referencia": "2026-11-21",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-11-21T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-11-21T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 7,
+  "ocorrencias_por_tipo": {
+    "acidente": 1,
+    "alagamento": 3,
+    "veiculo_parado": 3
+  },
+  "total_infracoes": 0
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735f04"
+  },
+  "tipo_periodo": "mensal",
+  "referencia": "2025-11",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2025-11-01T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2025-11-30T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 0,
+  "ocorrencias_por_tipo": {},
+  "total_infracoes": 15,
+  "infracoes_por_tipo": {
+    "InfracaoLei": 8,
+    "Crime": 3,
+    "Acidente": 4
+  },
+  "bairros_criticos": []
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735f05"
+  },
+  "tipo_periodo": "mensal",
+  "referencia": "2025-12",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2025-12-01T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2025-12-31T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 4,
+  "ocorrencias_por_tipo": {
+    "alagamento": 1,
+    "veiculo_parado": 2,
+    "acidente": 1
+  },
+  "total_infracoes": 18,
+  "infracoes_por_tipo": {
+    "Acidente": 9,
+    "InfracaoLei": 5,
+    "Crime": 4
+  },
+  "bairros_criticos": [
+    {
+      "bairro": "Jardim Botânico",
+      "total_ocorrencias": 1
+    },
+    {
+      "bairro": "Penha",
+      "total_ocorrencias": 1
+    },
+    {
+      "bairro": "Laranjeiras",
+      "total_ocorrencias": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735f06"
+  },
+  "tipo_periodo": "mensal",
+  "referencia": "2026-01",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-01-31T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 328,
+  "ocorrencias_por_tipo": {
+    "acidente": 115,
+    "veiculo_parado": 95,
+    "alagamento": 118
+  },
+  "total_infracoes": 23,
+  "infracoes_por_tipo": {
+    "Acidente": 7,
+    "InfracaoLei": 10,
+    "Crime": 6
+  },
+  "bairros_criticos": [
+    {
+      "bairro": "Centro",
+      "total_ocorrencias": 15
+    },
+    {
+      "bairro": "Cidade Nova",
+      "total_ocorrencias": 14
+    },
+    {
+      "bairro": "Glória",
+      "total_ocorrencias": 13
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735f07"
+  },
+  "tipo_periodo": "mensal",
+  "referencia": "2026-02",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-02-01T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-02-28T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 265,
+  "ocorrencias_por_tipo": {
+    "alagamento": 77,
+    "veiculo_parado": 90,
+    "acidente": 98
+  },
+  "total_infracoes": 16,
+  "infracoes_por_tipo": {
+    "Crime": 8,
+    "Acidente": 4,
+    "InfracaoLei": 4
+  },
+  "bairros_criticos": [
+    {
+      "bairro": "Jacarepaguá",
+      "total_ocorrencias": 12
+    },
+    {
+      "bairro": "Copacabana",
+      "total_ocorrencias": 12
+    },
+    {
+      "bairro": "Cidade Nova",
+      "total_ocorrencias": 10
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735f08"
+  },
+  "tipo_periodo": "mensal",
+  "referencia": "2026-03",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-03-01T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-03-31T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 304,
+  "ocorrencias_por_tipo": {
+    "acidente": 108,
+    "veiculo_parado": 84,
+    "alagamento": 112
+  },
+  "total_infracoes": 16,
+  "infracoes_por_tipo": {
+    "InfracaoLei": 9,
+    "Crime": 3,
+    "Acidente": 4
+  },
+  "bairros_criticos": [
+    {
+      "bairro": "Catete",
+      "total_ocorrencias": 14
+    },
+    {
+      "bairro": "São Cristóvão",
+      "total_ocorrencias": 13
+    },
+    {
+      "bairro": "Lagoa",
+      "total_ocorrencias": 12
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735f09"
+  },
+  "tipo_periodo": "mensal",
+  "referencia": "2026-04",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-04-01T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-04-30T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 269,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 109,
+    "acidente": 117,
+    "alagamento": 43
+  },
+  "total_infracoes": 13,
+  "infracoes_por_tipo": {
+    "InfracaoLei": 5,
+    "Acidente": 5,
+    "Crime": 3
+  },
+  "bairros_criticos": [
+    {
+      "bairro": "Taquara",
+      "total_ocorrencias": 12
+    },
+    {
+      "bairro": "Maracanã",
+      "total_ocorrencias": 12
+    },
+    {
+      "bairro": "São Cristóvão",
+      "total_ocorrencias": 11
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735f0a"
+  },
+  "tipo_periodo": "mensal",
+  "referencia": "2026-05",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-05-01T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-05-31T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 286,
+  "ocorrencias_por_tipo": {
+    "acidente": 127,
+    "veiculo_parado": 102,
+    "alagamento": 57
+  },
+  "total_infracoes": 16,
+  "infracoes_por_tipo": {
+    "InfracaoLei": 11,
+    "Crime": 3,
+    "Acidente": 2
+  },
+  "bairros_criticos": [
+    {
+      "bairro": "Campo Grande",
+      "total_ocorrencias": 12
+    },
+    {
+      "bairro": "Santo Cristo",
+      "total_ocorrencias": 12
+    },
+    {
+      "bairro": "Cosme Velho",
+      "total_ocorrencias": 10
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735f0b"
+  },
+  "tipo_periodo": "mensal",
+  "referencia": "2026-06",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-06-01T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-06-30T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 269,
+  "ocorrencias_por_tipo": {
+    "alagamento": 51,
+    "veiculo_parado": 98,
+    "acidente": 120
+  },
+  "total_infracoes": 17,
+  "infracoes_por_tipo": {
+    "Acidente": 7,
+    "InfracaoLei": 5,
+    "Crime": 5
+  },
+  "bairros_criticos": [
+    {
+      "bairro": "Barra da Tijuca",
+      "total_ocorrencias": 16
+    },
+    {
+      "bairro": "Leme",
+      "total_ocorrencias": 11
+    },
+    {
+      "bairro": "Taquara",
+      "total_ocorrencias": 10
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735f0c"
+  },
+  "tipo_periodo": "mensal",
+  "referencia": "2026-07",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-07-01T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-07-31T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 326,
+  "ocorrencias_por_tipo": {
+    "veiculo_parado": 115,
+    "alagamento": 62,
+    "acidente": 149
+  },
+  "total_infracoes": 23,
+  "infracoes_por_tipo": {
+    "Acidente": 9,
+    "InfracaoLei": 9,
+    "Crime": 5
+  },
+  "bairros_criticos": [
+    {
+      "bairro": "Vila Isabel",
+      "total_ocorrencias": 15
+    },
+    {
+      "bairro": "Santa Teresa",
+      "total_ocorrencias": 14
+    },
+    {
+      "bairro": "Pavuna",
+      "total_ocorrencias": 11
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735f0d"
+  },
+  "tipo_periodo": "mensal",
+  "referencia": "2026-08",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-08-01T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-08-31T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 252,
+  "ocorrencias_por_tipo": {
+    "acidente": 115,
+    "alagamento": 40,
+    "veiculo_parado": 97
+  },
+  "total_infracoes": 20,
+  "infracoes_por_tipo": {
+    "Crime": 9,
+    "InfracaoLei": 7,
+    "Acidente": 4
+  },
+  "bairros_criticos": [
+    {
+      "bairro": "Jardim Botânico",
+      "total_ocorrencias": 13
+    },
+    {
+      "bairro": "São Conrado",
+      "total_ocorrencias": 10
+    },
+    {
+      "bairro": "Bangu",
+      "total_ocorrencias": 9
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735f0e"
+  },
+  "tipo_periodo": "mensal",
+  "referencia": "2026-09",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-09-01T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-09-30T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 273,
+  "ocorrencias_por_tipo": {
+    "alagamento": 54,
+    "acidente": 120,
+    "veiculo_parado": 99
+  },
+  "total_infracoes": 15,
+  "infracoes_por_tipo": {
+    "InfracaoLei": 5,
+    "Acidente": 7,
+    "Crime": 3
+  },
+  "bairros_criticos": [
+    {
+      "bairro": "Flamengo",
+      "total_ocorrencias": 13
+    },
+    {
+      "bairro": "Bangu",
+      "total_ocorrencias": 11
+    },
+    {
+      "bairro": "Santa Cruz",
+      "total_ocorrencias": 11
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735f0f"
+  },
+  "tipo_periodo": "mensal",
+  "referencia": "2026-10",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-10-01T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-10-31T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 296,
+  "ocorrencias_por_tipo": {
+    "alagamento": 49,
+    "veiculo_parado": 113,
+    "acidente": 134
+  },
+  "total_infracoes": 23,
+  "infracoes_por_tipo": {
+    "Acidente": 9,
+    "Crime": 6,
+    "InfracaoLei": 8
+  },
+  "bairros_criticos": [
+    {
+      "bairro": "Barra da Tijuca",
+      "total_ocorrencias": 14
+    },
+    {
+      "bairro": "Grajaú",
+      "total_ocorrencias": 13
+    },
+    {
+      "bairro": "Copacabana",
+      "total_ocorrencias": 12
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735f10"
+  },
+  "tipo_periodo": "mensal",
+  "referencia": "2026-11",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "periodo": {
+    "inicio": {
+      "$date": "2026-11-01T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-11-30T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 187,
+  "ocorrencias_por_tipo": {
+    "acidente": 83,
+    "veiculo_parado": 72,
+    "alagamento": 32
+  },
+  "total_infracoes": 9,
+  "infracoes_por_tipo": {
+    "Acidente": 1,
+    "Crime": 4,
+    "InfracaoLei": 4
+  },
+  "bairros_criticos": [
+    {
+      "bairro": "Centro",
+      "total_ocorrencias": 12
+    },
+    {
+      "bairro": "Taquara",
+      "total_ocorrencias": 9
+    },
+    {
+      "bairro": "Flamengo",
+      "total_ocorrencias": 8
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6b04920383d15529af735f11"
+  },
+  "tipo_periodo": "anual",
+  "referencia": "2026",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "parcial": true,
+  "periodo": {
+    "inicio": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "fim": {
+      "$date": "2026-12-31T23:59:59.000Z"
+    }
+  },
+  "total_ocorrencias": 3055,
+  "ocorrencias_por_tipo": {
+    "acidente": 1286,
+    "veiculo_parado": 1074,
+    "alagamento": 695
+  },
+  "total_infracoes": 191,
+  "infracoes_por_tipo": {
+    "Acidente": 59,
+    "InfracaoLei": 77,
+    "Crime": 55
+  },
+  "velocidade_media_geral_kmh": 51.94
+}]

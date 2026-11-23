@@ -1,0 +1,2722 @@
+[{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2671"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 110,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1280,
+  "logradouro": "Avenida João Luís Alves",
+  "bairro": "Urca",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.218739,
+      -22.88154
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2672"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 252,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1299,
+  "logradouro": "Estrada de Jacarepaguá",
+  "bairro": "Jacarepaguá",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.280769,
+      -22.963897
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2676"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 405,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1270,
+  "logradouro": "Avenida Atlântica",
+  "bairro": "Copacabana",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.301624,
+      -22.891774
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d267d"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 711,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1289,
+  "logradouro": "Rua Conde de Bonfim",
+  "bairro": "Tijuca",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.236356,
+      -22.960014
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2688"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1231,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1298,
+  "logradouro": "Avenida Padre Guilherme Decaminada",
+  "bairro": "Santa Cruz",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.254783,
+      -22.918372
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d268f"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1526,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1301,
+  "logradouro": "Estrada do Galeão",
+  "bairro": "Ilha do Governador",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.234275,
+      -22.919251
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2690"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1535,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1293,
+  "logradouro": "Rua Dias da Cruz",
+  "bairro": "Méier",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.309926,
+      -22.908619
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2691"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1570,
+  "tipo_dispositivo": "Câmera",
+  "ativo": false,
+  "id_local": 1297,
+  "logradouro": "Estrada da Posse",
+  "bairro": "Campo Grande",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.217122,
+      -22.917316
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2699"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1819,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1290,
+  "logradouro": "Boulevard 28 de Setembro",
+  "bairro": "Vila Isabel",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.263848,
+      -22.883033
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26a3"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 2021,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1288,
+  "logradouro": "Avenida Lúcio Costa",
+  "bairro": "Recreio dos Bandeirantes",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.275378,
+      -22.949569
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26a5"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 2079,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1273,
+  "logradouro": "Rua Voluntários da Pátria",
+  "bairro": "Botafogo",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.274642,
+      -22.948015
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26a7"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 2241,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1281,
+  "logradouro": "Avenida Princesa Isabel",
+  "bairro": "Leme",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.275913,
+      -22.95483
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26a9"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 2397,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1273,
+  "logradouro": "Rua Voluntários da Pátria",
+  "bairro": "Botafogo",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.274642,
+      -22.948015
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26ac"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 2567,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1308,
+  "logradouro": "Rua do Santo Cristo",
+  "bairro": "Santo Cristo",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.197292,
+      -22.937293
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26af"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 2675,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1271,
+  "logradouro": "Rua Visconde de Pirajá",
+  "bairro": "Ipanema",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.309585,
+      -22.918738
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26b1"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 2730,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1288,
+  "logradouro": "Avenida Lúcio Costa",
+  "bairro": "Recreio dos Bandeirantes",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.275378,
+      -22.949569
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26b2"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 2731,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1300,
+  "logradouro": "Estrada dos Bandeirantes",
+  "bairro": "Taquara",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.286655,
+      -22.882195
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26b7"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 2947,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1270,
+  "logradouro": "Avenida Atlântica",
+  "bairro": "Copacabana",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.301624,
+      -22.891774
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26c9"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4119,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1282,
+  "logradouro": "Rua Marquês de São Vicente",
+  "bairro": "Gávea",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.300015,
+      -22.895292
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26ca"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4125,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1278,
+  "logradouro": "Rua Almirante Alexandrino",
+  "bairro": "Santa Teresa",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.298443,
+      -22.962881
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26ce"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4389,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1298,
+  "logradouro": "Avenida Padre Guilherme Decaminada",
+  "bairro": "Santa Cruz",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.254783,
+      -22.918372
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26d1"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4427,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1299,
+  "logradouro": "Estrada de Jacarepaguá",
+  "bairro": "Jacarepaguá",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.280769,
+      -22.963897
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26d5"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4668,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1290,
+  "logradouro": "Boulevard 28 de Setembro",
+  "bairro": "Vila Isabel",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.263848,
+      -22.883033
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26db"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4772,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1271,
+  "logradouro": "Rua Visconde de Pirajá",
+  "bairro": "Ipanema",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.309585,
+      -22.918738
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26e1"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4966,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1291,
+  "logradouro": "Rua Professor Eurico Rabelo",
+  "bairro": "Maracanã",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.274334,
+      -22.935151
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d266f"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 18,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1300,
+  "logradouro": "Estrada dos Bandeirantes",
+  "bairro": "Taquara",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.286655,
+      -22.882195
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2678"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 554,
+  "tipo_dispositivo": "Radar",
+  "ativo": false,
+  "id_local": 1278,
+  "logradouro": "Rua Almirante Alexandrino",
+  "bairro": "Santa Teresa",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.298443,
+      -22.962881
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d267b"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 644,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1285,
+  "logradouro": "Rua Humaitá",
+  "bairro": "Humaitá",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.221483,
+      -22.948468
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d267c"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 689,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1270,
+  "logradouro": "Avenida Atlântica",
+  "bairro": "Copacabana",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.301624,
+      -22.891774
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d267f"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 761,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1286,
+  "logradouro": "Avenida Niemeyer",
+  "bairro": "São Conrado",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.218542,
+      -22.896382
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2681"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 795,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1272,
+  "logradouro": "Avenida Delfim Moreira",
+  "bairro": "Leblon",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.290479,
+      -22.913176
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2682"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 846,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1277,
+  "logradouro": "Rua da Glória",
+  "bairro": "Glória",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.19668,
+      -22.884171
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d268c"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1474,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1275,
+  "logradouro": "Rua das Laranjeiras",
+  "bairro": "Laranjeiras",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.220415,
+      -22.915197
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2695"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1743,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1289,
+  "logradouro": "Rua Conde de Bonfim",
+  "bairro": "Tijuca",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.236356,
+      -22.960014
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d269a"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1831,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1300,
+  "logradouro": "Estrada dos Bandeirantes",
+  "bairro": "Taquara",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.286655,
+      -22.882195
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d269d"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1848,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1270,
+  "logradouro": "Avenida Atlântica",
+  "bairro": "Copacabana",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.301624,
+      -22.891774
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d269e"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1925,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1304,
+  "logradouro": "Avenida Monsenhor Félix",
+  "bairro": "Irajá",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.220706,
+      -22.890886
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26a4"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 2054,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1290,
+  "logradouro": "Boulevard 28 de Setembro",
+  "bairro": "Vila Isabel",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.263848,
+      -22.883033
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26a6"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 2240,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1273,
+  "logradouro": "Rua Voluntários da Pátria",
+  "bairro": "Botafogo",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.274642,
+      -22.948015
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26a8"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 2267,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1292,
+  "logradouro": "Rua Barão de Mesquita",
+  "bairro": "Grajaú",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.281121,
+      -22.897161
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26aa"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 2410,
+  "tipo_dispositivo": "Câmera",
+  "ativo": false,
+  "id_local": 1296,
+  "logradouro": "Rua Fonseca",
+  "bairro": "Bangu",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.224113,
+      -22.88166
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26b0"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 2717,
+  "tipo_dispositivo": "Radar",
+  "ativo": false,
+  "id_local": 1286,
+  "logradouro": "Avenida Niemeyer",
+  "bairro": "São Conrado",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.218542,
+      -22.896382
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26bb"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 3258,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": false,
+  "id_local": 1299,
+  "logradouro": "Estrada de Jacarepaguá",
+  "bairro": "Jacarepaguá",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.280769,
+      -22.963897
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26c0"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 3492,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": false,
+  "id_local": 1278,
+  "logradouro": "Rua Almirante Alexandrino",
+  "bairro": "Santa Teresa",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.298443,
+      -22.962881
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26c1"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 3506,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1297,
+  "logradouro": "Estrada da Posse",
+  "bairro": "Campo Grande",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.217122,
+      -22.917316
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26c2"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 3568,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1306,
+  "logradouro": "Rua Frei Caneca",
+  "bairro": "Cidade Nova",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.294393,
+      -22.874458
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26c6"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 3827,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1276,
+  "logradouro": "Rua do Catete",
+  "bairro": "Catete",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.250103,
+      -22.966815
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26c8"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4051,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1279,
+  "logradouro": "Rua Joaquim Silva",
+  "bairro": "Lapa",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.264372,
+      -22.888227
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26d7"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4700,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1301,
+  "logradouro": "Estrada do Galeão",
+  "bairro": "Ilha do Governador",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.234275,
+      -22.919251
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26d9"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4742,
+  "tipo_dispositivo": "Radar",
+  "ativo": false,
+  "id_local": 1271,
+  "logradouro": "Rua Visconde de Pirajá",
+  "bairro": "Ipanema",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.309585,
+      -22.918738
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26dc"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4833,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1295,
+  "logradouro": "Largo da Penha",
+  "bairro": "Penha",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.236265,
+      -22.881532
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26e3"
+  },
+  "tipo": "rota_alternativa",
+  "nome": "Rota alternativa Zona Norte 1",
+  "motivo": "velocidade média abaixo de 20 km/h na via principal",
+  "distancia_km": 5.21,
+  "ativa": true,
+  "geometria": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -43.285,
+        -22.885
+      ],
+      [
+        -43.272,
+        -22.896
+      ],
+      [
+        -43.259,
+        -22.905
+      ],
+      [
+        -43.246,
+        -22.915
+      ]
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26e4"
+  },
+  "tipo": "rota_alternativa",
+  "nome": "Rota alternativa Maracanã",
+  "motivo": "velocidade média abaixo de 20 km/h na via principal",
+  "distancia_km": 4.38,
+  "ativa": true,
+  "geometria": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -43.236,
+        -22.9
+      ],
+      [
+        -43.232,
+        -22.912
+      ],
+      [
+        -43.226,
+        -22.924
+      ],
+      [
+        -43.219,
+        -22.936
+      ]
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26e6"
+  },
+  "tipo": "rota_alternativa",
+  "nome": "Rota alternativa Tijuca",
+  "motivo": "velocidade média abaixo de 20 km/h na via principal",
+  "distancia_km": 4.65,
+  "ativa": true,
+  "geometria": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -43.25,
+        -22.88
+      ],
+      [
+        -43.247,
+        -22.893
+      ],
+      [
+        -43.244,
+        -22.907
+      ],
+      [
+        -43.241,
+        -22.921
+      ]
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26e7"
+  },
+  "tipo": "perimetro",
+  "nome": "Zona de monitoramento Norte",
+  "geometria": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -43.29,
+          -22.9
+        ],
+        [
+          -43.25,
+          -22.9
+        ],
+        [
+          -43.25,
+          -22.87
+        ],
+        [
+          -43.29,
+          -22.87
+        ],
+        [
+          -43.29,
+          -22.9
+        ]
+      ]
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26eb"
+  },
+  "tipo": "ponto_interesse",
+  "nome": "Quinta da Boa Vista",
+  "categoria": "parque",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.2217,
+      -22.9059
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2670"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 43,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1272,
+  "logradouro": "Avenida Delfim Moreira",
+  "bairro": "Leblon",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.290479,
+      -22.913176
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2674"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 347,
+  "tipo_dispositivo": "Radar",
+  "ativo": false,
+  "id_local": 1308,
+  "logradouro": "Rua do Santo Cristo",
+  "bairro": "Santo Cristo",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.197292,
+      -22.937293
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2679"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 603,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1281,
+  "logradouro": "Avenida Princesa Isabel",
+  "bairro": "Leme",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.275913,
+      -22.95483
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d267a"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 626,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1280,
+  "logradouro": "Avenida João Luís Alves",
+  "bairro": "Urca",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.218739,
+      -22.88154
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2687"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1211,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1283,
+  "logradouro": "Rua Jardim Botânico",
+  "bairro": "Jardim Botânico",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.302969,
+      -22.899613
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2689"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1313,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1273,
+  "logradouro": "Rua Voluntários da Pátria",
+  "bairro": "Botafogo",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.274642,
+      -22.948015
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d268a"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1345,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1307,
+  "logradouro": "Rua Cosme Velho",
+  "bairro": "Cosme Velho",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.30473,
+      -22.909271
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d268b"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1361,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1301,
+  "logradouro": "Estrada do Galeão",
+  "bairro": "Ilha do Governador",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.234275,
+      -22.919251
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d268e"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1512,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1297,
+  "logradouro": "Estrada da Posse",
+  "bairro": "Campo Grande",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.217122,
+      -22.917316
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2692"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1575,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1281,
+  "logradouro": "Avenida Princesa Isabel",
+  "bairro": "Leme",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.275913,
+      -22.95483
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2696"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1764,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1283,
+  "logradouro": "Rua Jardim Botânico",
+  "bairro": "Jardim Botânico",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.302969,
+      -22.899613
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2697"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1767,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1304,
+  "logradouro": "Avenida Monsenhor Félix",
+  "bairro": "Irajá",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.220706,
+      -22.890886
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2698"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1775,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1279,
+  "logradouro": "Rua Joaquim Silva",
+  "bairro": "Lapa",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.264372,
+      -22.888227
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d269c"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1839,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1294,
+  "logradouro": "Estrada do Portela",
+  "bairro": "Madureira",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.280886,
+      -22.871765
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d269f"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1931,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1286,
+  "logradouro": "Avenida Niemeyer",
+  "bairro": "São Conrado",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.218542,
+      -22.896382
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26ad"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 2601,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1272,
+  "logradouro": "Avenida Delfim Moreira",
+  "bairro": "Leblon",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.290479,
+      -22.913176
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26ae"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 2671,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1285,
+  "logradouro": "Rua Humaitá",
+  "bairro": "Humaitá",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.221483,
+      -22.948468
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26b3"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 2750,
+  "tipo_dispositivo": "Radar",
+  "ativo": false,
+  "id_local": 1302,
+  "logradouro": "Avenida Marechal Fontenele",
+  "bairro": "Realengo",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.267343,
+      -22.92239
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26b9"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 3059,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1294,
+  "logradouro": "Estrada do Portela",
+  "bairro": "Madureira",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.280886,
+      -22.871765
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26bc"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 3397,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1271,
+  "logradouro": "Rua Visconde de Pirajá",
+  "bairro": "Ipanema",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.309585,
+      -22.918738
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26bf"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 3464,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1277,
+  "logradouro": "Rua da Glória",
+  "bairro": "Glória",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.19668,
+      -22.884171
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26c3"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 3716,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1306,
+  "logradouro": "Rua Frei Caneca",
+  "bairro": "Cidade Nova",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.294393,
+      -22.874458
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26c4"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 3739,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1292,
+  "logradouro": "Rua Barão de Mesquita",
+  "bairro": "Grajaú",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.281121,
+      -22.897161
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26c5"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 3825,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1275,
+  "logradouro": "Rua das Laranjeiras",
+  "bairro": "Laranjeiras",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.220415,
+      -22.915197
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26cc"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4178,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1294,
+  "logradouro": "Estrada do Portela",
+  "bairro": "Madureira",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.280886,
+      -22.871765
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26cd"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4322,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1285,
+  "logradouro": "Rua Humaitá",
+  "bairro": "Humaitá",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.221483,
+      -22.948468
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26d0"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4401,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1273,
+  "logradouro": "Rua Voluntários da Pátria",
+  "bairro": "Botafogo",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.274642,
+      -22.948015
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26d3"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4499,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1275,
+  "logradouro": "Rua das Laranjeiras",
+  "bairro": "Laranjeiras",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.220415,
+      -22.915197
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26d8"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4734,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1290,
+  "logradouro": "Boulevard 28 de Setembro",
+  "bairro": "Vila Isabel",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.263848,
+      -22.883033
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26de"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4859,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1286,
+  "logradouro": "Avenida Niemeyer",
+  "bairro": "São Conrado",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.218542,
+      -22.896382
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26df"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4866,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1289,
+  "logradouro": "Rua Conde de Bonfim",
+  "bairro": "Tijuca",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.236356,
+      -22.960014
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26ea"
+  },
+  "tipo": "ponto_interesse",
+  "nome": "Estádio do Maracanã",
+  "categoria": "estadio",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.2302,
+      -22.9121
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26ec"
+  },
+  "tipo": "ponto_interesse",
+  "nome": "Rodoviária Novo Rio",
+  "categoria": "terminal",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.2099,
+      -22.8963
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26ed"
+  },
+  "tipo": "ponto_interesse",
+  "nome": "Hospital Municipal Souza Aguiar",
+  "categoria": "hospital",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.1887,
+      -22.9087
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2673"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 328,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1275,
+  "logradouro": "Rua das Laranjeiras",
+  "bairro": "Laranjeiras",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.220415,
+      -22.915197
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2675"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 397,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1296,
+  "logradouro": "Rua Fonseca",
+  "bairro": "Bangu",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.224113,
+      -22.88166
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2677"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 552,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1275,
+  "logradouro": "Rua das Laranjeiras",
+  "bairro": "Laranjeiras",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.220415,
+      -22.915197
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d267e"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 738,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1302,
+  "logradouro": "Avenida Marechal Fontenele",
+  "bairro": "Realengo",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.267343,
+      -22.92239
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2680"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 762,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1287,
+  "logradouro": "Avenida das Américas",
+  "bairro": "Barra da Tijuca",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.286645,
+      -22.950827
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2683"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 898,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1302,
+  "logradouro": "Avenida Marechal Fontenele",
+  "bairro": "Realengo",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.267343,
+      -22.92239
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2684"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1047,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1296,
+  "logradouro": "Rua Fonseca",
+  "bairro": "Bangu",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.224113,
+      -22.88166
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2685"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1095,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1308,
+  "logradouro": "Rua do Santo Cristo",
+  "bairro": "Santo Cristo",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.197292,
+      -22.937293
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2686"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1129,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1289,
+  "logradouro": "Rua Conde de Bonfim",
+  "bairro": "Tijuca",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.236356,
+      -22.960014
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d268d"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1504,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1272,
+  "logradouro": "Avenida Delfim Moreira",
+  "bairro": "Leblon",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.290479,
+      -22.913176
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2693"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1709,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1297,
+  "logradouro": "Estrada da Posse",
+  "bairro": "Campo Grande",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.217122,
+      -22.917316
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d2694"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1739,
+  "tipo_dispositivo": "Radar",
+  "ativo": false,
+  "id_local": 1279,
+  "logradouro": "Rua Joaquim Silva",
+  "bairro": "Lapa",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.264372,
+      -22.888227
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d269b"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1837,
+  "tipo_dispositivo": "Câmera",
+  "ativo": false,
+  "id_local": 1299,
+  "logradouro": "Estrada de Jacarepaguá",
+  "bairro": "Jacarepaguá",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.280769,
+      -22.963897
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26a0"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1960,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1282,
+  "logradouro": "Rua Marquês de São Vicente",
+  "bairro": "Gávea",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.300015,
+      -22.895292
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26a1"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1982,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1270,
+  "logradouro": "Avenida Atlântica",
+  "bairro": "Copacabana",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.301624,
+      -22.891774
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26a2"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 1984,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1286,
+  "logradouro": "Avenida Niemeyer",
+  "bairro": "São Conrado",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.218542,
+      -22.896382
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26ab"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 2527,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1284,
+  "logradouro": "Avenida Epitácio Pessoa",
+  "bairro": "Lagoa",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.270527,
+      -22.915774
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26b4"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 2790,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1299,
+  "logradouro": "Estrada de Jacarepaguá",
+  "bairro": "Jacarepaguá",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.280769,
+      -22.963897
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26b5"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 2794,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1275,
+  "logradouro": "Rua das Laranjeiras",
+  "bairro": "Laranjeiras",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.220415,
+      -22.915197
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26b6"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 2819,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1299,
+  "logradouro": "Estrada de Jacarepaguá",
+  "bairro": "Jacarepaguá",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.280769,
+      -22.963897
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26b8"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 3001,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1269,
+  "logradouro": "Avenida Rio Branco",
+  "bairro": "Centro",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.286135,
+      -22.882004
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26ba"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 3082,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1291,
+  "logradouro": "Rua Professor Eurico Rabelo",
+  "bairro": "Maracanã",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.274334,
+      -22.935151
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26bd"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 3428,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1283,
+  "logradouro": "Rua Jardim Botânico",
+  "bairro": "Jardim Botânico",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.302969,
+      -22.899613
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26be"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 3433,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1291,
+  "logradouro": "Rua Professor Eurico Rabelo",
+  "bairro": "Maracanã",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.274334,
+      -22.935151
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26c7"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 3857,
+  "tipo_dispositivo": "Radar",
+  "ativo": false,
+  "id_local": 1297,
+  "logradouro": "Estrada da Posse",
+  "bairro": "Campo Grande",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.217122,
+      -22.917316
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26cb"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4156,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1290,
+  "logradouro": "Boulevard 28 de Setembro",
+  "bairro": "Vila Isabel",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.263848,
+      -22.883033
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26cf"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4391,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1296,
+  "logradouro": "Rua Fonseca",
+  "bairro": "Bangu",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.224113,
+      -22.88166
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26d2"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4446,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1302,
+  "logradouro": "Avenida Marechal Fontenele",
+  "bairro": "Realengo",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.267343,
+      -22.92239
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26d4"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4545,
+  "tipo_dispositivo": "Semáforo",
+  "ativo": true,
+  "id_local": 1278,
+  "logradouro": "Rua Almirante Alexandrino",
+  "bairro": "Santa Teresa",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.298443,
+      -22.962881
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26d6"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4694,
+  "tipo_dispositivo": "Radar",
+  "ativo": false,
+  "id_local": 1307,
+  "logradouro": "Rua Cosme Velho",
+  "bairro": "Cosme Velho",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.30473,
+      -22.909271
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26da"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4762,
+  "tipo_dispositivo": "Câmera",
+  "ativo": true,
+  "id_local": 1288,
+  "logradouro": "Avenida Lúcio Costa",
+  "bairro": "Recreio dos Bandeirantes",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.275378,
+      -22.949569
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26dd"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4853,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1284,
+  "logradouro": "Avenida Epitácio Pessoa",
+  "bairro": "Lagoa",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.270527,
+      -22.915774
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26e0"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4918,
+  "tipo_dispositivo": "Câmera",
+  "ativo": false,
+  "id_local": 1298,
+  "logradouro": "Avenida Padre Guilherme Decaminada",
+  "bairro": "Santa Cruz",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.254783,
+      -22.918372
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26e2"
+  },
+  "tipo": "dispositivo",
+  "id_dispositivo": 4991,
+  "tipo_dispositivo": "Radar",
+  "ativo": true,
+  "id_local": 1300,
+  "logradouro": "Estrada dos Bandeirantes",
+  "bairro": "Taquara",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "geometria": {
+    "type": "Point",
+    "coordinates": [
+      -43.286655,
+      -22.882195
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26e5"
+  },
+  "tipo": "rota_alternativa",
+  "nome": "Rota alternativa Centro-Oeste",
+  "motivo": "velocidade média abaixo de 20 km/h na via principal",
+  "distancia_km": 6.24,
+  "ativa": true,
+  "geometria": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -43.3,
+        -22.94
+      ],
+      [
+        -43.282,
+        -22.935
+      ],
+      [
+        -43.262,
+        -22.93
+      ],
+      [
+        -43.241,
+        -22.926
+      ]
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26e8"
+  },
+  "tipo": "perimetro",
+  "nome": "Zona de monitoramento Centro",
+  "geometria": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -43.25,
+          -22.93
+        ],
+        [
+          -43.205,
+          -22.93
+        ],
+        [
+          -43.205,
+          -22.895
+        ],
+        [
+          -43.25,
+          -22.895
+        ],
+        [
+          -43.25,
+          -22.93
+        ]
+      ]
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6b00473d59077c6dc10d26e9"
+  },
+  "tipo": "perimetro",
+  "nome": "Zona de monitoramento Oeste",
+  "geometria": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -43.31,
+          -22.96
+        ],
+        [
+          -43.26,
+          -22.96
+        ],
+        [
+          -43.26,
+          -22.925
+        ],
+        [
+          -43.31,
+          -22.925
+        ],
+        [
+          -43.31,
+          -22.96
+        ]
+      ]
+    ]
+  }
+}]
