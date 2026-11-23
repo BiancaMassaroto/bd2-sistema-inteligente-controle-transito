@@ -32,10 +32,6 @@ Guarda os dados que exigem integridade referencial:
 
 [A PREENCHER PELO GRUPO: quais dados estão no MongoDB, quais collections existem e por que documentos são mais adequados para eles (por exemplo, eventos e leituras com estrutura variável ou aninhada, em grande volume).]
 
-### Como os dois se complementam
-
-[A PREENCHER PELO GRUPO: como as duas bases contribuem para resolver o problema e que vantagem isso traz em relação a usar uma tecnologia só.]
-
 ## Tecnologias
 
 - MySQL (com MySQL Workbench)
@@ -137,38 +133,3 @@ Depois, execute as consultas e as agregações com o `mongosh`:
 mongosh NOME_DA_BASE mongodb/consultas.js
 mongosh NOME_DA_BASE mongodb/aggregations.js
 ```
-
-## Requisitos atendidos
-
-### MySQL
-
-- [ ] MER, modelo relacional e dicionário de dados
-- [ ] Normalização (1FN, 2FN e 3FN)
-- [ ] DDL: `CREATE DATABASE`, `CREATE TABLE`, `ALTER TABLE`, chaves, `NOT NULL`, `UNIQUE`, `DEFAULT`, `CHECK`
-- [ ] DML: `INSERT`, `UPDATE`, `DELETE`
-- [ ] Pelo menos 10 consultas, 5 delas com `JOIN`
-- [ ] Pelo menos 5 views
-- [ ] Pelo menos 3 stored procedures
-- [ ] Pelo menos 3 triggers
-- [ ] Pelo menos 5 índices, com `EXPLAIN`
-- [ ] 3 perfis de acesso (`CREATE USER`, `GRANT`, `REVOKE`)
-
-### MongoDB
-
-- [ ] Modelagem documentada, com pelo menos 3 collections
-- [ ] Exemplos de documentos JSON
-- [ ] `insertOne()`, `insertMany()` e importação de JSON
-- [ ] Pelo menos 10 consultas
-- [ ] `updateOne()`/`updateMany()` e `deleteOne()`/`deleteMany()`
-- [ ] Pelo menos 2 aggregation pipelines
-- [ ] Pelo menos 1 índice adicional
-
-### Geral
-
-- [ ] Requisitos funcionais e não funcionais
-- [ ] Estimativa de crescimento e análise de grandes volumes
-- [ ] Justificativa da coerência entre MySQL e MongoDB
-
-## Documentação
-
-Toda a documentação do projeto está na pasta [`docs/`](docs/).
