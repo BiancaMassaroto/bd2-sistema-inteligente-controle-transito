@@ -6,10 +6,14 @@ Solução de dados para um sistema inteligente de controle de trânsito, que com
 
 ## Integrantes
 
-- [Nome dos integrantes]
+- Augusto Manzano
+- Bianca Massaroto
+- Matheus Augusto Guimarães Santos
+- Renan Pereira de Souza Silva
+- Gabriel
 
 **Disciplina:** Banco de Dados
-**Professor(a):** [nome]
+**Professor(a):** André Olimpio
 
 ## Sobre o projeto
 
@@ -30,7 +34,22 @@ Guarda os dados que exigem integridade referencial:
 
 ### MongoDB (dados em documentos)
 
-[A PREENCHER PELO GRUPO: quais dados estão no MongoDB, quais collections existem e por que documentos são mais adequados para eles (por exemplo, eventos e leituras com estrutura variável ou aninhada, em grande volume).]
+Guarda os dados que crescem rápido, têm formato variável ou são lidos de uma só vez. Base `monitoramento_transito`, com 5 collections:
+
+- `contagem_trafego`: leituras dos sensores, uma por minuto de cada dispositivo (quantidade de veículos, velocidade média e sentido);
+- `metricas_desempenho`: indicadores calculados por dispositivo e período, como índice de congestionamento e velocidade média;
+- `dados_geoespaciais`: dispositivos, rotas alternativas, perímetros e pontos de interesse em formato GeoJSON;
+- `relatorios_acidentes`: acidentes, alagamentos e veículos parados, cada tipo com seus próprios campos;
+- `relatorios_transito`: resumos diários, mensais e anuais, com os bairros mais críticos.
+
+Os documentos são mais adequados para esses dados porque:
+
+- as leituras dos sensores formam uma série temporal de grande volume, que cresce continuamente (cerca de 61 milhões de leituras por ano com 116 dispositivos);
+- uma ocorrência tem estrutura variável: um acidente envolve vários veículos e órgãos acionados (arrays e subdocumentos), enquanto um alagamento tem outros campos, como o nível da água;
+- as localizações em GeoJSON permitem consultas por proximidade e por área, com índice `2dsphere`;
+- os resumos e as métricas são lidos inteiros em uma única consulta, sem JOINs.
+
+As collections não são uma cópia das tabelas do MySQL. Elas se ligam a ele por identificadores comuns (`id_dispositivo` e `id_local`), e o painel de integração usa essa ligação para cruzar os dois bancos. A modelagem completa está em [`docs/mongodb.md`](docs/mongodb.md).
 
 ## Tecnologias
 
@@ -53,8 +72,6 @@ Principais tabelas do MySQL:
 | `ciclo_semaforo` | Tempos de verde, amarelo e vermelho dos semáforos |
 | `funcionario` | Funcionários responsáveis pelos dispositivos |
 | `logs_dispositivos` | Registros de operação dos dispositivos |
-
-O modelo completo está em `docs/mer.png` e `docs/modelo_relacional.png`, e a descrição de cada campo está em `docs/dicionario_dados.md`.
 
 ## Como executar
 
