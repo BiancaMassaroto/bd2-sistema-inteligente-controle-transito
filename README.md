@@ -110,12 +110,6 @@ mysql -u root -p < mysql/usuarios_permissoes.sql
 
 As consultas ficam em `mysql/consultas.sql` e podem ser executadas à vontade depois dos passos acima.
 
-Alternativa: restaurar tudo de uma vez a partir do banco exportado.
-
-```bash
-mysql -u root -p < mysql/backup.sql
-```
-
 Também é possível abrir cada arquivo `.sql` no MySQL Workbench e executar.
 
 ### MongoDB
