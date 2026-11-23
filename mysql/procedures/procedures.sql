@@ -1,3 +1,4 @@
+
 -- ============================================================
 -- STORED PROCEDURES - Sistema Inteligente de Controle de Trânsito
 -- Banco: sistema_transito
@@ -62,6 +63,8 @@ DELIMITER ;
 -- ------------------------------------------------------------
 -- PROCEDURE 3 (com parâmetro de entrada e de saída)
 -- Informa, para um bairro, o total de dispositivos, de infrações e de eventos.
+-- O COLLATE na comparação evita o erro 1267 (mistura de collations entre o
+-- parâmetro e a coluna bairro). Ele também ignora maiúsculas e acentos.
 -- Uso:
 --   CALL sp_resumo_bairro('Copacabana', @disp, @infr, @ev);
 --   SELECT @disp AS dispositivos, @infr AS infracoes, @ev AS eventos;
@@ -79,17 +82,17 @@ BEGIN
     SELECT COUNT(*) INTO p_dispositivos
     FROM dispositivo d
     INNER JOIN local l ON l.idlocal = d.idlocal
-    WHERE l.bairro = p_bairro;
+    WHERE l.bairro = p_bairro COLLATE utf8mb4_general_ci;
 
     SELECT COUNT(*) INTO p_infracoes
     FROM registro_infracao r
     INNER JOIN dispositivo d ON d.iddispositivos = r.iddispositivo
     INNER JOIN local l       ON l.idlocal = d.idlocal
-    WHERE l.bairro = p_bairro;
+    WHERE l.bairro = p_bairro COLLATE utf8mb4_general_ci;
 
     SELECT COUNT(*) INTO p_eventos
     FROM evento_trafego e
     INNER JOIN local l ON l.idlocal = e.idlocal
-    WHERE l.bairro = p_bairro;
+    WHERE l.bairro = p_bairro COLLATE utf8mb4_general_ci;
 END$$
 DELIMITER ;
