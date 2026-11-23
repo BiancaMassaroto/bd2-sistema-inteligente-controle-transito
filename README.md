@@ -38,37 +38,6 @@ Guarda os dados que exigem integridade referencial:
 - MongoDB (com MongoDB Compass ou mongosh)
 - Git e GitHub
 
-## Estrutura do repositório
-
-```
-.
-├── README.md
-├── docs/
-│   ├── requisitos.md                 Requisitos funcionais e não funcionais
-│   ├── mer.png                       Modelo Entidade-Relacionamento
-│   ├── modelo_relacional.png         Modelo relacional
-│   ├── dicionario_dados.md           Dicionário de dados
-│   ├── normalizacao.md               Aplicação de 1FN, 2FN e 3FN
-│   ├── indexacao.md                  Análise de índices e EXPLAIN
-│   ├── mongodb.md                    Documentação do MongoDB
-│   ├── grandes_volumes.md            Crescimento e desempenho
-│   └── coerencia_mysql_mongodb.md    Justificativa da arquitetura
-├── mysql/
-│   ├── ddl.sql                       Estrutura do banco
-│   ├── dml.sql                       INSERT, UPDATE e DELETE
-│   ├── consultas.sql                 Consultas SQL
-│   ├── views.sql                     Views
-│   ├── procedures.sql                Stored procedures
-│   ├── triggers.sql                  Triggers
-│   ├── indices.sql                   Índices
-│   ├── usuarios_permissoes.sql       Usuários e permissões (DCL)
-│   └── backup.sql                    Banco exportado
-└── mongodb/
-    ├── dados/                        Arquivos JSON
-    ├── consultas.js                  Consultas MongoDB
-    └── aggregations.js               Aggregation pipelines
-```
-
 ## Modelo relacional
 
 Principais tabelas do MySQL:
