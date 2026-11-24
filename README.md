@@ -49,7 +49,7 @@ Os documentos são mais adequados para esses dados porque:
 - as localizações em GeoJSON permitem consultas por proximidade e por área, com índice `2dsphere`;
 - os resumos e as métricas são lidos inteiros em uma única consulta, sem JOINs.
 
-As collections não são uma cópia das tabelas do MySQL. Elas se ligam a ele por identificadores comuns (`id_dispositivo` e `id_local`), e o painel de integração usa essa ligação para cruzar os dois bancos. A modelagem completa está em [`docs/mongodb.md`](docs/mongodb.md).
+As collections não são uma cópia das tabelas do MySQL. Elas se ligam a ele por identificadores comuns (`id_dispositivo` e `id_local`), e o painel de integração usa essa ligação para cruzar os dois bancos. 
 
 ## Tecnologias
 
